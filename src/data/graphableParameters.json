@@ -1,0 +1,41 @@
+{
+  "IncomeStatement": [
+    "OperatingIncomeLoss",
+    "NetIncomeLoss",
+    "IncomeTaxExpenseBenefit",
+    "GeneralAndAdministrativeExpense",
+    "ResearchAndDevelopmentExpense",
+    "OperatingExpenses",
+    "SellingAndMarketingExpense",
+    "GrossProfit"
+  ],
+  "BalanceSheet": [
+    "LiabilitiesAndStockholdersEquity",
+    "RetainedEarningsAccumulatedDeficit",
+    "Assets",
+    "LiabilitiesCurrent",
+    "AssetsCurrent",
+    "StockholdersEquity",
+    "CashAndCashEquivalentsAtCarryingValue",
+    "CommonStockValue",
+    "PropertyPlantAndEquipmentNet",
+    "AccountsReceivableNetCurrent",
+    "Liabilities",
+    "Goodwill",
+    "AccountsPayableCurrent",
+    "OperatingLeaseRightOfUseAsset",
+    "AccumulatedOtherComprehensiveIncomeLossNetOfTax",
+    "OperatingLeaseLiabilityNoncurrent",
+    "CommitmentsAndContingencies",
+    "ContractWithCustomerLiabilityCurrent"
+  ],
+  "CashFlow": [
+    "DepreciationDepletionAndAmortization",
+    "NetIncomeLoss",
+    "NetCashProvidedByUsedInOperatingActivities",
+    "NetCashProvidedByUsedInFinancingActivities",
+    "NetCashProvidedByUsedInInvestingActivities",
+    "ShareBasedCompensation",
+    "IncreaseDecreaseInAccountsReceivable"
+  ]
+}

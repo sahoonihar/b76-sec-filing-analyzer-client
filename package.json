@@ -1,0 +1,39 @@
+{
+  "name": "client",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@ant-design/plots": "^1.0.9",
+    "antd": "^4.19.3",
+    "axios": "^0.26.1",
+    "lodash": "^4.17.21",
+    "next": "12.1.0",
+    "polished": "^4.1.4",
+    "react": "17.0.2",
+    "react-dom": "17.0.2",
+    "react-icons": "^4.3.1",
+    "recoil": "^0.6.1",
+    "styled-components": "^5.3.3"
+  },
+  "devDependencies": {
+    "eslint": "8.11.0",
+    "eslint-config-airbnb": "^19.0.4",
+    "eslint-config-next": "12.1.0",
+    "eslint-config-prettier": "^8.5.0",
+    "eslint-plugin-import": "^2.25.4",
+    "eslint-plugin-node": "^11.1.0",
+    "eslint-plugin-prettier": "^4.0.0",
+    "eslint-plugin-promise": "^6.0.0",
+    "eslint-plugin-security": "^1.4.0",
+    "prettier": "^2.6.0"
+  },
+  "engines": {
+    "node": ">=16.13.0"
+  }
+}

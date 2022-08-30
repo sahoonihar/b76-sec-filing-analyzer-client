@@ -1,0 +1,2782 @@
+[
+  {
+    "cik": "0001459417",
+    "name": "2U, Inc.",
+    "sic": "Services-Prepackaged Software",
+    "state_incorp": "DE",
+    "ticker": "TWOU",
+    "mailing_addr": "7900 HARKINS ROAD, LANHAM, MD, 20706",
+    "category": "Large accelerated filer",
+    "fiscal_year_end": "31, December"
+  },
+  {
+    "cik": "0001023731",
+    "name": "8X8 INC /DE/",
+    "sic": "Services-Computer Processing & Data Preparation",
+    "state_incorp": "DE",
+    "ticker": "EGHT",
+    "mailing_addr": "675 CREEKSIDE WAY, CAMPBELL, CA, 95008",
+    "category": "Large accelerated filer",
+    "fiscal_year_end": "31, March"
+  },
+  {
+    "cik": "0001580808",
+    "name": "A10 Networks, Inc.",
+    "sic": "Computer Communications Equipment",
+    "state_incorp": "DE",
+    "ticker": "ATEN",
+    "mailing_addr": "2300 ORCHARD PKWY, SAN JOSE, CA, 95131",
+    "category": "Accelerated filer",
+    "fiscal_year_end": "31, December"
+  },
+  {
+    "cik": "0000935036",
+    "name": "ACI WORLDWIDE, INC.",
+    "sic": "Services-Prepackaged Software",
+    "state_incorp": "DE",
+    "ticker": "ACIW",
+    "mailing_addr": "3520 KRAFT ROAD, SUITE 300, NAPLES, FL, 34105",
+    "category": "Large accelerated filer",
+    "fiscal_year_end": "31, December"
+  },
+  {
+    "cik": "0000796343",
+    "name": "ADOBE INC.",
+    "sic": "Services-Prepackaged Software",
+    "state_incorp": "DE",
+    "ticker": "ADBE",
+    "mailing_addr": "345 PARK AVENUE, SAN JOSE, CA, 95110-2704",
+    "category": "Large accelerated filer",
+    "fiscal_year_end": "02, December"
+  },
+  {
+    "cik": "0000078749",
+    "name": "AGILYSYS INC",
+    "sic": "Services-Computer Integrated Systems Design",
+    "state_incorp": "OH",
+    "ticker": "AGYS",
+    "mailing_addr": "1000 WINDWARD CONCOURSE, ALPHARETTA, GA, 30005",
+    "category": "Accelerated filer",
+    "fiscal_year_end": "31, March"
+  },
+  {
+    "cik": "0001459200",
+    "name": "Alarm.com Holdings, Inc.",
+    "sic": "Services-Prepackaged Software",
+    "state_incorp": "DE",
+    "ticker": "ALRM",
+    "mailing_addr": "8281 GREENSBORO DRIVE, TYSONS, VA, 22102",
+    "category": "Large accelerated filer",
+    "fiscal_year_end": "31, December"
+  },
+  {
+    "cik": "0001701732",
+    "name": "Altair Engineering Inc.",
+    "sic": "Services-Prepackaged Software",
+    "state_incorp": "DE",
+    "ticker": "ALTR",
+    "mailing_addr": "1820 E. BIG BEAVER ROAD, TROY, MI, 48083",
+    "category": "Large accelerated filer",
+    "fiscal_year_end": "31, December"
+  },
+  {
+    "cik": "0001689923",
+    "name": "Alteryx, Inc.",
+    "sic": "Services-Prepackaged Software",
+    "state_incorp": "DE",
+    "ticker": "AYX",
+    "mailing_addr": "17200 LAGUNA CANYON ROAD, IRVINE, CA, 92618",
+    "category": "Large accelerated filer",
+    "fiscal_year_end": "31, December"
+  },
+  {
+    "cik": "0001540755",
+    "name": "Anaplan, Inc.",
+    "sic": "Services-Prepackaged Software",
+    "state_incorp": "DE",
+    "ticker": "PLAN",
+    "mailing_addr": "50 HAWTHORNE STREET, SAN FRANCISCO, CA, 94105",
+    "category": "Large accelerated filer",
+    "fiscal_year_end": "31, January"
+  },
+  {
+    "cik": "0001013462",
+    "name": "ANSYS INC",
+    "sic": "Services-Prepackaged Software",
+    "state_incorp": "DE",
+    "ticker": "ANSS",
+    "mailing_addr": "2600 ANSYS DRIVE, SOUTHPOINTE, CANONSBURG, PA, 15317",
+    "category": "Large accelerated filer",
+    "fiscal_year_end": "31, December"
+  },
+  {
+    "cik": "0001433195",
+    "name": "APPFOLIO INC",
+    "sic": "Services-Prepackaged Software",
+    "state_incorp": "",
+    "ticker": "APPF",
+    "mailing_addr": "50 CASTILIAN DRIVE, GOLETA, CA, 93117",
+    "category": "Large accelerated filer",
+    "fiscal_year_end": "31, December"
+  },
+  {
+    "cik": "0001441683",
+    "name": "APPIAN CORP",
+    "sic": "Services-Prepackaged Software",
+    "state_incorp": "",
+    "ticker": "APPN",
+    "mailing_addr": "7950 JONES BRANCH DRIVE, TYSONS, VA, 22102",
+    "category": "Large accelerated filer",
+    "fiscal_year_end": "31, December"
+  },
+  {
+    "cik": "0001477720",
+    "name": "Asana, Inc.",
+    "sic": "Services-Prepackaged Software",
+    "state_incorp": "DE",
+    "ticker": "ASAN",
+    "mailing_addr": "633 FOLSOM STREET, SAN FRANCISCO, CA, 94107",
+    "category": "Non-accelerated filer<br>Emerging growth company",
+    "fiscal_year_end": "31, January"
+  },
+  {
+    "cik": "0000929940",
+    "name": "ASPEN TECHNOLOGY INC /DE/",
+    "sic": "Services-Computer Programming Services",
+    "state_incorp": "DE",
+    "ticker": "AZPN",
+    "mailing_addr": "20 CROSBY DRIVE, BEDFORD, MA, 01730",
+    "category": "Large accelerated filer",
+    "fiscal_year_end": "30, June"
+  },
+  {
+    "cik": "0000884144",
+    "name": "ASURE SOFTWARE INC",
+    "sic": "Services-Computer Integrated Systems Design",
+    "state_incorp": "DE",
+    "ticker": "ASUR",
+    "mailing_addr": "3700 N CAPITAL OF TEXAS HWY, AUSTIN, TX, 78746",
+    "category": "Non-accelerated filer<br>Smaller reporting company",
+    "fiscal_year_end": "31, December"
+  },
+  {
+    "cik": "0001362190",
+    "name": "AUDIOEYE INC",
+    "sic": "Services-Prepackaged Software",
+    "state_incorp": "DE",
+    "ticker": "AEYE",
+    "mailing_addr": "5210 E. WILLIAMS CIRCLE, TUCSON, AZ, 85711",
+    "category": "Non-accelerated filer<br>Smaller reporting company",
+    "fiscal_year_end": "31, December"
+  },
+  {
+    "cik": "0000769397",
+    "name": "Autodesk, Inc.",
+    "sic": "Services-Prepackaged Software",
+    "state_incorp": "DE",
+    "ticker": "ADSK",
+    "mailing_addr": "111 MCINNIS PKWY, SAN RAFAEL, CA, 94903",
+    "category": "Large accelerated filer",
+    "fiscal_year_end": "31, January"
+  },
+  {
+    "cik": "0000008670",
+    "name": "AUTOMATIC DATA PROCESSING INC",
+    "sic": "Services-Computer Processing & Data Preparation",
+    "state_incorp": "DE",
+    "ticker": "ADP",
+    "mailing_addr": "ONE ADP BOULEVARD, ROSELAND, NJ, 07068",
+    "category": "Large accelerated filer",
+    "fiscal_year_end": "30, June"
+  },
+  {
+    "cik": "0001348036",
+    "name": "AVALARA, INC.",
+    "sic": "Services-Prepackaged Software",
+    "state_incorp": "WA",
+    "ticker": "AVLR",
+    "mailing_addr": "255 S. KING ST., SEATTLE, WA, 98104",
+    "category": "Large accelerated filer",
+    "fiscal_year_end": "31, December"
+  },
+  {
+    "cik": "0001015739",
+    "name": "AWARE INC /MA/",
+    "sic": "Services-Prepackaged Software",
+    "state_incorp": "MA",
+    "ticker": "AWRE",
+    "mailing_addr": "40 MIDDLESEX TURNPIKE, BEDFORD, MA, 01730",
+    "category": "Non-accelerated filer<br>Smaller reporting company",
+    "fiscal_year_end": "31, December"
+  },
+  {
+    "cik": "0001576169",
+    "name": "Benefitfocus, Inc.",
+    "sic": "Services-Prepackaged Software",
+    "state_incorp": "DE",
+    "ticker": "BNFT",
+    "mailing_addr": "100 BENEFITFOCUS WAY, CHARLESTON, SC, 29492",
+    "category": "Accelerated filer",
+    "fiscal_year_end": "31, December"
+  },
+  {
+    "cik": "0001031308",
+    "name": "BENTLEY SYSTEMS INC",
+    "sic": "Services-Prepackaged Software",
+    "state_incorp": "DE",
+    "ticker": "BSY",
+    "mailing_addr": " ,  ,  ,  ",
+    "category": "Large accelerated filer",
+    "fiscal_year_end": "31, December"
+  },
+  {
+    "cik": "0001786352",
+    "name": "Bill.com Holdings, Inc.",
+    "sic": "Services-Prepackaged Software",
+    "state_incorp": "DE",
+    "ticker": "BILL",
+    "mailing_addr": "6220 AMERICA CENTER DR., SAN JOSE, CA, 95002",
+    "category": "Large accelerated filer",
+    "fiscal_year_end": "30, June"
+  },
+  {
+    "cik": "0001019034",
+    "name": "BIO KEY INTERNATIONAL INC",
+    "sic": "Computer Communications Equipment",
+    "state_incorp": "DE",
+    "ticker": "BKYI",
+    "mailing_addr": "3349 HIGHWAY 138, WALL, NJ, 07719",
+    "category": "Non-accelerated filer<br>Smaller reporting company",
+    "fiscal_year_end": "31, December"
+  },
+  {
+    "cik": "0001280058",
+    "name": "BLACKBAUD INC",
+    "sic": "Services-Prepackaged Software",
+    "state_incorp": "DE",
+    "ticker": "BLKB",
+    "mailing_addr": "65 FAIRCHILD STREET, CHARLESTON, SC, 29492",
+    "category": "Large accelerated filer",
+    "fiscal_year_end": "31, December"
+  },
+  {
+    "cik": "0001567900",
+    "name": "BLACKBOXSTOCKS INC.",
+    "sic": "Services-Computer Programming Services",
+    "state_incorp": "NV",
+    "ticker": "BLBX",
+    "mailing_addr": "5430 LBJ FREEWAY, DALLAS, TX, 75240",
+    "category": "<br>Emerging growth company",
+    "fiscal_year_end": "31, December"
+  },
+  {
+    "cik": "0001666134",
+    "name": "BLACKLINE, INC.",
+    "sic": "Services-Prepackaged Software",
+    "state_incorp": "DE",
+    "ticker": "BL",
+    "mailing_addr": "21300 VICTORY BOULEVARD, WOODLAND HILLS, CA, 91367",
+    "category": "Large accelerated filer",
+    "fiscal_year_end": "31, December"
+  },
+  {
+    "cik": "0001073349",
+    "name": "BOTTOMLINE TECHNOLOGIES INC",
+    "sic": "Services-Prepackaged Software",
+    "state_incorp": "DE",
+    "ticker": "EPAY",
+    "mailing_addr": "325 CORPORATE DRIVE, PORTSMOUTH, NH, 03801",
+    "category": "Large accelerated filer",
+    "fiscal_year_end": "30, June"
+  },
+  {
+    "cik": "0001372612",
+    "name": "BOX INC",
+    "sic": "Services-Prepackaged Software",
+    "state_incorp": "DE",
+    "ticker": "BOX",
+    "mailing_addr": "900 JEFFERSON AVE, REDWOOD CITY, CA, 94063",
+    "category": "Large accelerated filer",
+    "fiscal_year_end": "31, January"
+  },
+  {
+    "cik": "0001624512",
+    "name": "Boxlight Corp",
+    "sic": "Services-Educational Services",
+    "state_incorp": "NV",
+    "ticker": "BOXL",
+    "mailing_addr": "1045 PROGRESS CIRCLE, LAWRENCEVILLE, GA, 30043",
+    "category": "<br>Emerging growth company",
+    "fiscal_year_end": "31, December"
+  },
+  {
+    "cik": "0001378590",
+    "name": "Bridgeline Digital, Inc.",
+    "sic": "Services-Prepackaged Software",
+    "state_incorp": "DE",
+    "ticker": "BLIN",
+    "mailing_addr": "100 TRADE CENTER, SUITE G-700, WOBURN, MA, 01801",
+    "category": "Non-accelerated filer<br>Smaller reporting company",
+    "fiscal_year_end": "30, September"
+  },
+  {
+    "cik": "0001054721",
+    "name": "BSQUARE CORP /WA",
+    "sic": "Services-Business Services, NEC",
+    "state_incorp": "WA",
+    "ticker": "BSQR",
+    "mailing_addr": "110    110TH AVENUE NE, SUITE 300, BELLEVUE, WA, 98004",
+    "category": "Non-accelerated filer<br>Smaller reporting company",
+    "fiscal_year_end": "31, December"
+  },
+  {
+    "cik": "0000813672",
+    "name": "CADENCE DESIGN SYSTEMS INC",
+    "sic": "Services-Prepackaged Software",
+    "state_incorp": "DE",
+    "ticker": "CDNS",
+    "mailing_addr": "2655 SEELY AVENUE, SAN JOSE, CA, 95134",
+    "category": "Large accelerated filer",
+    "fiscal_year_end": "01, January"
+  },
+  {
+    "cik": "0001609702",
+    "name": "CDK Global, Inc.",
+    "sic": "Services-Business Services, NEC",
+    "state_incorp": "DE",
+    "ticker": "CDK",
+    "mailing_addr": "1950 HASSELL ROAD, HOFFMAN ESTATES, IL, 60169",
+    "category": "Large accelerated filer",
+    "fiscal_year_end": "30, June"
+  },
+  {
+    "cik": "0001768267",
+    "name": "Cerence Inc.",
+    "sic": "Services-Prepackaged Software",
+    "state_incorp": "DE",
+    "ticker": "CRNC",
+    "mailing_addr": "15 WAYSIDE ROAD, BURLINGTON, MA, 01880",
+    "category": "Large accelerated filer",
+    "fiscal_year_end": "30, September"
+  },
+  {
+    "cik": "0001725057",
+    "name": "Ceridian HCM Holding Inc.",
+    "sic": "Services-Prepackaged Software",
+    "state_incorp": "DE",
+    "ticker": "CDAY",
+    "mailing_addr": "3311 EAST OLD SHAKOPEE ROAD, MINNEAPOLIS, MN, 55425",
+    "category": "Large accelerated filer",
+    "fiscal_year_end": "31, December"
+  },
+  {
+    "cik": "0000877890",
+    "name": "CITRIX SYSTEMS INC",
+    "sic": "Services-Prepackaged Software",
+    "state_incorp": "DE",
+    "ticker": "CTXS",
+    "mailing_addr": "851 WEST CYPRESS CREEK ROAD, FORT  LAUDERDALE, FL, 33309",
+    "category": "Large accelerated filer",
+    "fiscal_year_end": "31, December"
+  },
+  {
+    "cik": "0000827876",
+    "name": "CLEANSPARK, INC.",
+    "sic": "Services-Computer Integrated Systems Design",
+    "state_incorp": "NV",
+    "ticker": "CLSK",
+    "mailing_addr": "2370 CORPORATE CIRCLE, HENDERSON, NV, 89074",
+    "category": "Large accelerated filer",
+    "fiscal_year_end": "30, September"
+  },
+  {
+    "cik": "0001477333",
+    "name": "Cloudflare, Inc.",
+    "sic": "Services-Prepackaged Software",
+    "state_incorp": "DE",
+    "ticker": "NET",
+    "mailing_addr": "101 TOWNSEND ST., SAN FRANCISCO, CA, 94107",
+    "category": "Large accelerated filer",
+    "fiscal_year_end": "31, December"
+  },
+  {
+    "cik": "0001169561",
+    "name": "COMMVAULT SYSTEMS INC",
+    "sic": "Services-Prepackaged Software",
+    "state_incorp": "DE",
+    "ticker": "CVLT",
+    "mailing_addr": "1 COMMVAULT WAY, TINTON FALLS, NJ, 07724",
+    "category": "Large accelerated filer",
+    "fiscal_year_end": "31, March"
+  },
+  {
+    "cik": "0001385867",
+    "name": "Coupa Software Inc",
+    "sic": "Services-Prepackaged Software",
+    "state_incorp": "DE",
+    "ticker": "COUP",
+    "mailing_addr": "1855 S. GRANT STREET, SAN MATEO, CA, 94402",
+    "category": "Large accelerated filer",
+    "fiscal_year_end": "31, January"
+  },
+  {
+    "cik": "0001535527",
+    "name": "CrowdStrike Holdings, Inc.",
+    "sic": "Services-Prepackaged Software",
+    "state_incorp": "DE",
+    "ticker": "CRWD",
+    "mailing_addr": "206 E. 9TH STREET, AUSTIN, TX, 78701",
+    "category": "Large accelerated filer",
+    "fiscal_year_end": "31, January"
+  },
+  {
+    "cik": "0001084577",
+    "name": "CYREN Ltd.",
+    "sic": "Services-Prepackaged Software",
+    "state_incorp": "L3",
+    "ticker": "CYRN",
+    "mailing_addr": "10 HA-MENOFIM STREET, HERZLIYA, L3, 4672561",
+    "category": "Non-accelerated filer<br>Smaller reporting company",
+    "fiscal_year_end": "31, December"
+  },
+  {
+    "cik": "0001561550",
+    "name": "Datadog, Inc.",
+    "sic": "Services-Prepackaged Software",
+    "state_incorp": "DE",
+    "ticker": "DDOG",
+    "mailing_addr": "620 EIGHTH AVENUE, 45TH FLOOR, NEW YORK, NY, 10018",
+    "category": "Large accelerated filer",
+    "fiscal_year_end": "31, December"
+  },
+  {
+    "cik": "0001724570",
+    "name": "DATTO HOLDING CORP.",
+    "sic": "Services-Prepackaged Software",
+    "state_incorp": "DE",
+    "ticker": "MSP",
+    "mailing_addr": "101 MERRITT 7, NORWALK, CT, 06851",
+    "category": "Large accelerated filer",
+    "fiscal_year_end": "31, December"
+  },
+  {
+    "cik": "0001438231",
+    "name": "Digimarc CORP",
+    "sic": "Services-Computer Integrated Systems Design",
+    "state_incorp": "OR",
+    "ticker": "DMRC",
+    "mailing_addr": "8500 SW CREEKSIDE PLACE, BEAVERTON, OR, 97008",
+    "category": "Non-accelerated filer<br>Smaller reporting company",
+    "fiscal_year_end": "31, December"
+  },
+  {
+    "cik": "0000317788",
+    "name": "Digital Turbine, Inc.",
+    "sic": "Patent Owners & Lessors",
+    "state_incorp": "DE",
+    "ticker": "APPS",
+    "mailing_addr": "111 NUECES STREET, AUSTIN, TX, 78701",
+    "category": "Large accelerated filer",
+    "fiscal_year_end": "31, March"
+  },
+  {
+    "cik": "0001261333",
+    "name": "DOCUSIGN, INC.",
+    "sic": "Services-Prepackaged Software",
+    "state_incorp": "DE",
+    "ticker": "DOCU",
+    "mailing_addr": "221 MAIN ST., SUITE 1550, SAN FRANCISCO, CA, 94105",
+    "category": "Large accelerated filer",
+    "fiscal_year_end": "31, January"
+  },
+  {
+    "cik": "0001505952",
+    "name": "DOMO, INC.",
+    "sic": "Services-Prepackaged Software",
+    "state_incorp": "DE",
+    "ticker": "DOMO",
+    "mailing_addr": "772 EAST UTAH VALLEY DRIVE, AMERICAN FORK, UT, 84003",
+    "category": "Large accelerated filer",
+    "fiscal_year_end": "31, January"
+  },
+  {
+    "cik": "0001467623",
+    "name": "DROPBOX, INC.",
+    "sic": "Services-Prepackaged Software",
+    "state_incorp": "DE",
+    "ticker": "DBX",
+    "mailing_addr": "1800 OWENS STREET, SUITE 200, SAN FRANCISCO, CA, 94158",
+    "category": "Large accelerated filer",
+    "fiscal_year_end": "31, December"
+  },
+  {
+    "cik": "0001773383",
+    "name": "Dynatrace, Inc.",
+    "sic": "Services-Prepackaged Software",
+    "state_incorp": "",
+    "ticker": "DT",
+    "mailing_addr": "1601 TRAPELO ROAD, SUITE 116, WALTHAM, MA, 02451",
+    "category": "Large accelerated filer",
+    "fiscal_year_end": "31, March"
+  },
+  {
+    "cik": "0000814549",
+    "name": "EBIX INC",
+    "sic": "Services-Computer Integrated Systems Design",
+    "state_incorp": "DE",
+    "ticker": "EBIX",
+    "mailing_addr": "1 EBIX WAY, JOHNS CREEK, GA, 30097",
+    "category": "Accelerated filer",
+    "fiscal_year_end": "31, December"
+  },
+  {
+    "cik": "0001437491",
+    "name": "Ecoark Holdings, Inc.",
+    "sic": "Crude Petroleum & Natural Gas",
+    "state_incorp": "NV",
+    "ticker": "ZEST",
+    "mailing_addr": "303 PEARL PARKWAY SUITE 200, SAN ANTONIO, TX, 78215",
+    "category": "Non-accelerated filer<br>Smaller reporting company",
+    "fiscal_year_end": "31, March"
+  },
+  {
+    "cik": "0001066194",
+    "name": "EGAIN Corp",
+    "sic": "Services-Prepackaged Software",
+    "state_incorp": "DE",
+    "ticker": "EGAN",
+    "mailing_addr": "1252 BORREGAS AVENUE, SUNNYVALE, CA, 94089",
+    "category": "Non-accelerated filer<br>Smaller reporting company",
+    "fiscal_year_end": "30, June"
+  },
+  {
+    "cik": "0001337619",
+    "name": "ENVESTNET, INC.",
+    "sic": "Services-Business Services, NEC",
+    "state_incorp": "DE",
+    "ticker": "ENV",
+    "mailing_addr": "35 E WACKER DR STE 2400, CHICAGO, IL, 60601",
+    "category": "Large accelerated filer",
+    "fiscal_year_end": "31, December"
+  },
+  {
+    "cik": "0001437352",
+    "name": "EVERBRIDGE, INC.",
+    "sic": "Services-Prepackaged Software",
+    "state_incorp": "DE",
+    "ticker": "EVBG",
+    "mailing_addr": "25 CORPORATE DRIVE, BURLINGTON, MA, 01803",
+    "category": "Large accelerated filer",
+    "fiscal_year_end": "31, December"
+  },
+  {
+    "cik": "0001052054",
+    "name": "EVOLVING SYSTEMS INC",
+    "sic": "Services-Computer Programming Services",
+    "state_incorp": "DE",
+    "ticker": "EVOL",
+    "mailing_addr": "9800 PYRAMID COURT, SUITE 400, ENGLEWOOD, CO, 80112",
+    "category": "Non-accelerated filer<br>Smaller reporting company",
+    "fiscal_year_end": "31, December"
+  },
+  {
+    "cik": "0000814547",
+    "name": "FAIR ISAAC CORP",
+    "sic": "Services-Business Services, NEC",
+    "state_incorp": "DE",
+    "ticker": "FICO",
+    "mailing_addr": "5 WEST MENDENHALL, BOZEMAN, MT, 59715",
+    "category": "Large accelerated filer",
+    "fiscal_year_end": "30, September"
+  },
+  {
+    "cik": "0001517413",
+    "name": "Fastly, Inc.",
+    "sic": "Services-Prepackaged Software",
+    "state_incorp": "DE",
+    "ticker": "FSLY",
+    "mailing_addr": "475 BRANNAN, SAN FRANCISCO, CA, 94107",
+    "category": "Large accelerated filer",
+    "fiscal_year_end": "31, December"
+  },
+  {
+    "cik": "0001288847",
+    "name": "Five9, Inc.",
+    "sic": "Services-Computer Processing & Data Preparation",
+    "state_incorp": "DE",
+    "ticker": "FIVN",
+    "mailing_addr": "3001 BISHOP DRIVE, SAN RAMON, CA, 94583",
+    "category": "Large accelerated filer",
+    "fiscal_year_end": "31, December"
+  },
+  {
+    "cik": "0001262039",
+    "name": "Fortinet, Inc.",
+    "sic": "Computer Peripheral Equipment, NEC",
+    "state_incorp": "",
+    "ticker": "FTNT",
+    "mailing_addr": "899 KIFER ROAD, SUNNYVALE, CA, 94086",
+    "category": "Large accelerated filer",
+    "fiscal_year_end": "31, December"
+  },
+  {
+    "cik": "0000944480",
+    "name": "GSE SYSTEMS INC",
+    "sic": "Services-Prepackaged Software",
+    "state_incorp": "DE",
+    "ticker": "GVP",
+    "mailing_addr": "6940 COLUMBIA GATEWAY DRIVE, SUITE 470, COLUMBIA, MD, 21046-3308",
+    "category": "Non-accelerated filer<br>Smaller reporting company",
+    "fiscal_year_end": "31, December"
+  },
+  {
+    "cik": "0001682325",
+    "name": "GTY Technology Holdings Inc.",
+    "sic": "Services-Computer Processing & Data Preparation",
+    "state_incorp": "",
+    "ticker": "GTYH",
+    "mailing_addr": "800 BOYLSTON STREET, BOSTON, MA, 02199",
+    "category": "Non-accelerated filer<br>Smaller reporting company",
+    "fiscal_year_end": "31, December"
+  },
+  {
+    "cik": "0001528396",
+    "name": "Guidewire Software, Inc.",
+    "sic": "Services-Prepackaged Software",
+    "state_incorp": "DE",
+    "ticker": "GWRE",
+    "mailing_addr": "2850 S. DELAWARE ST., SUITE 400, SAN MATEO, CA, 94403",
+    "category": "Large accelerated filer",
+    "fiscal_year_end": "31, July"
+  },
+  {
+    "cik": "0001404655",
+    "name": "HUBSPOT INC",
+    "sic": "Services-Prepackaged Software",
+    "state_incorp": "DE",
+    "ticker": "HUBS",
+    "mailing_addr": "25 FIRST STREET, CAMBRIDGE, MA, 02141",
+    "category": "Large accelerated filer",
+    "fiscal_year_end": "31, December"
+  },
+  {
+    "cik": "0000837852",
+    "name": "IDEANOMICS, INC.",
+    "sic": "Motor Vehicles & Passenger Car Bodies",
+    "state_incorp": "NV",
+    "ticker": "IDEX",
+    "mailing_addr": "1441 BROADWAY, NEW YORK, NY, 10018",
+    "category": "Non-accelerated filer<br>Smaller reporting company",
+    "fiscal_year_end": "31, December"
+  },
+  {
+    "cik": "0000736012",
+    "name": "INTRUSION INC",
+    "sic": "Computer Communications Equipment",
+    "state_incorp": "DE",
+    "ticker": "INTZ",
+    "mailing_addr": "101 EAST PARK BLVD, SUITE 1200, PLANO, TX, 75074",
+    "category": "Non-accelerated filer<br>Smaller reporting company",
+    "fiscal_year_end": "31, December"
+  },
+  {
+    "cik": "0000896878",
+    "name": "INTUIT INC",
+    "sic": "Services-Prepackaged Software",
+    "state_incorp": "DE",
+    "ticker": "INTU",
+    "mailing_addr": "P.O. BOX 7850, MOUNTAIN VIEW, CA, 94039-7850",
+    "category": "Large accelerated filer",
+    "fiscal_year_end": "31, July"
+  },
+  {
+    "cik": "0000829323",
+    "name": "Inuvo, Inc.",
+    "sic": "Services-Advertising",
+    "state_incorp": "NV",
+    "ticker": "INUV",
+    "mailing_addr": "500 PRESIDENT CLINTON AVE., STE. 300, LITTLE ROCK, AR, 72201",
+    "category": "Non-accelerated filer<br>Smaller reporting company",
+    "fiscal_year_end": "31, December"
+  },
+  {
+    "cik": "0000843006",
+    "name": "ISSUER DIRECT CORP",
+    "sic": "Commercial Printing",
+    "state_incorp": "",
+    "ticker": "ISDR",
+    "mailing_addr": "1 GLENWOOD AVE., RALEIGH, NC, 27603",
+    "category": "Non-accelerated filer<br>Smaller reporting company",
+    "fiscal_year_end": "31, December"
+  },
+  {
+    "cik": "0000807882",
+    "name": "JACK IN THE BOX INC",
+    "sic": "Retail-Eating  Places",
+    "state_incorp": "DE",
+    "ticker": "JACK",
+    "mailing_addr": "9357 SPECTRUM CENTER BLVD, SAN DIEGO, CA, 92123-1516",
+    "category": "Large accelerated filer",
+    "fiscal_year_end": "02, October"
+  },
+  {
+    "cik": "0001721947",
+    "name": "Jamf Holding Corp.",
+    "sic": "Services-Prepackaged Software",
+    "state_incorp": "DE",
+    "ticker": "JAMF",
+    "mailing_addr": "100 WASHINGTON AVE. S., MINNEAPOLIS, MN, 55401",
+    "category": "Large accelerated filer",
+    "fiscal_year_end": "31, December"
+  },
+  {
+    "cik": "0001800667",
+    "name": "JFrog Ltd",
+    "sic": "Services-Prepackaged Software",
+    "state_incorp": "L3",
+    "ticker": "FROG",
+    "mailing_addr": "270 E CARIBBEAN DRIVE, SUNNYVALE, CA, 94089",
+    "category": "Large accelerated filer",
+    "fiscal_year_end": "31, December"
+  },
+  {
+    "cik": "0001102993",
+    "name": "LIVEPERSON INC",
+    "sic": "Services-Prepackaged Software",
+    "state_incorp": "DE",
+    "ticker": "LPSN",
+    "mailing_addr": "475 10TH AVENUE, NEW YORK, NY, 10018",
+    "category": "Large accelerated filer",
+    "fiscal_year_end": "31, December"
+  },
+  {
+    "cik": "0001056696",
+    "name": "MANHATTAN ASSOCIATES INC",
+    "sic": "Services-Prepackaged Software",
+    "state_incorp": "GA",
+    "ticker": "MANH",
+    "mailing_addr": "2300 WINDY RIDGE PARKWAY TENTH FLOOR, ATLANTA, GA, 30339",
+    "category": "Large accelerated filer",
+    "fiscal_year_end": "31, December"
+  },
+  {
+    "cik": "0001389002",
+    "name": "MARIN SOFTWARE INC",
+    "sic": "Services-Computer Processing & Data Preparation",
+    "state_incorp": "DE",
+    "ticker": "MRIN",
+    "mailing_addr": "123 MISSION ST, SAN FRANCISCO, CA, 94105",
+    "category": "Non-accelerated filer<br>Smaller reporting company",
+    "fiscal_year_end": "31, December"
+  },
+  {
+    "cik": "0000789019",
+    "name": "MICROSOFT CORP",
+    "sic": "Services-Prepackaged Software",
+    "state_incorp": "WA",
+    "ticker": "MSFT",
+    "mailing_addr": "ONE MICROSOFT WAY, REDMOND, WA, 98052-6399",
+    "category": "Large accelerated filer",
+    "fiscal_year_end": "30, June"
+  },
+  {
+    "cik": "0001050446",
+    "name": "MICROSTRATEGY Inc",
+    "sic": "Services-Prepackaged Software",
+    "state_incorp": "DE",
+    "ticker": "MSTR",
+    "mailing_addr": "1850 TOWERS CRESCENT PLAZA, TYSONS CORNER, VA, 22182",
+    "category": "Large accelerated filer",
+    "fiscal_year_end": "31, December"
+  },
+  {
+    "cik": "0000807863",
+    "name": "MITEK SYSTEMS INC",
+    "sic": "Computer Peripheral Equipment, NEC",
+    "state_incorp": "DE",
+    "ticker": "MITK",
+    "mailing_addr": "600 B STREET, SAN DIEGO, CA, 92101",
+    "category": "Accelerated filer",
+    "fiscal_year_end": "30, September"
+  },
+  {
+    "cik": "0001118417",
+    "name": "MODEL N, INC.",
+    "sic": "Services-Computer Programming, Data Processing, Etc.",
+    "state_incorp": "DE",
+    "ticker": "MODN",
+    "mailing_addr": "777 MARINERS ISLAND BOULEVARD, SAN MATEO, CA, 94404",
+    "category": "Large accelerated filer",
+    "fiscal_year_end": "30, September"
+  },
+  {
+    "cik": "0001441816",
+    "name": "MongoDB, Inc.",
+    "sic": "Services-Prepackaged Software",
+    "state_incorp": "DE",
+    "ticker": "MDB",
+    "mailing_addr": "1633 BROADWAY, NEW YORK, NY, 10019",
+    "category": "Large accelerated filer",
+    "fiscal_year_end": "31, January"
+  },
+  {
+    "cik": "0001902733",
+    "name": "nCino, Inc.",
+    "sic": "Services-Prepackaged Software",
+    "state_incorp": "DE",
+    "ticker": "NCNO",
+    "mailing_addr": "6770 PARKER FARM DRIVE, WILMINGTON, NC, 28405",
+    "category": "",
+    "fiscal_year_end": "31, January"
+  },
+  {
+    "cik": "0001039280",
+    "name": "NETSOL TECHNOLOGIES INC",
+    "sic": "Services-Prepackaged Software",
+    "state_incorp": "NV",
+    "ticker": "NTWK",
+    "mailing_addr": "23975 PARK SORRENTO, CALABASAS, CA, 91302",
+    "category": "Non-accelerated filer<br>Smaller reporting company",
+    "fiscal_year_end": "30, June"
+  },
+  {
+    "cik": "0001448056",
+    "name": "NEW RELIC, INC.",
+    "sic": "Services-Prepackaged Software",
+    "state_incorp": "DE",
+    "ticker": "NEWR",
+    "mailing_addr": "188 SPEAR STREET, STE. 1000, SAN FRANCISCO, CA, 94105",
+    "category": "Large accelerated filer",
+    "fiscal_year_end": "31, March"
+  },
+  {
+    "cik": "0000849399",
+    "name": "NortonLifeLock Inc.",
+    "sic": "Services-Prepackaged Software",
+    "state_incorp": "DE",
+    "ticker": "NLOK",
+    "mailing_addr": "60 E RIO SALADO PARKWAY, TEMPE, AZ, 85281",
+    "category": "Large accelerated filer",
+    "fiscal_year_end": "01, April"
+  },
+  {
+    "cik": "0001002517",
+    "name": "Nuance Communications, Inc.",
+    "sic": "Services-Prepackaged Software",
+    "state_incorp": "DE",
+    "ticker": "",
+    "mailing_addr": "1 WAYSIDE ROAD, BURLINGTON, MA, 01803",
+    "category": "Large accelerated filer",
+    "fiscal_year_end": "30, September"
+  },
+  {
+    "cik": "0001618732",
+    "name": "Nutanix, Inc.",
+    "sic": "Services-Prepackaged Software",
+    "state_incorp": "DE",
+    "ticker": "NTNX",
+    "mailing_addr": "1740 TECHNOLOGY DRIVE, SAN JOSE, CA, 95110",
+    "category": "Large accelerated filer",
+    "fiscal_year_end": "31, July"
+  },
+  {
+    "cik": "0000746210",
+    "name": "Oblong, Inc.",
+    "sic": "Services-Computer Programming, Data Processing, Etc.",
+    "state_incorp": "DE",
+    "ticker": "OBLG",
+    "mailing_addr": "25587 CONIFER ROAD, CONIFER, CO, 80433",
+    "category": "Non-accelerated filer<br>Smaller reporting company",
+    "fiscal_year_end": "31, December"
+  },
+  {
+    "cik": "0001660134",
+    "name": "Okta, Inc.",
+    "sic": "Services-Prepackaged Software",
+    "state_incorp": "DE",
+    "ticker": "OKTA",
+    "mailing_addr": "100 FIRST STREET, SAN FRANCISCO, CA, 94105",
+    "category": "Large accelerated filer",
+    "fiscal_year_end": "31, January"
+  },
+  {
+    "cik": "0001044777",
+    "name": "OneSpan Inc.",
+    "sic": "Services-Computer Integrated Systems Design",
+    "state_incorp": "DE",
+    "ticker": "OSPN",
+    "mailing_addr": "121 W WACKER DR., CHICAGO, IL, 60601",
+    "category": "Large accelerated filer",
+    "fiscal_year_end": "31, December"
+  },
+  {
+    "cik": "0001341439",
+    "name": "ORACLE CORP",
+    "sic": "Services-Prepackaged Software",
+    "state_incorp": "",
+    "ticker": "ORCL",
+    "mailing_addr": "500 ORACLE PARKWAY, REDWOOD CITY, CA, 94065",
+    "category": "Large accelerated filer",
+    "fiscal_year_end": "31, May"
+  },
+  {
+    "cik": "0001568100",
+    "name": "PagerDuty, Inc.",
+    "sic": "Services-Prepackaged Software",
+    "state_incorp": "DE",
+    "ticker": "PD",
+    "mailing_addr": "600 TOWNSEND STREET #200, SAN FRANCISCO, CA, 94103",
+    "category": "Large accelerated filer",
+    "fiscal_year_end": "31, January"
+  },
+  {
+    "cik": "0001327567",
+    "name": "Palo Alto Networks Inc",
+    "sic": "Computer Peripheral Equipment, NEC",
+    "state_incorp": "DE",
+    "ticker": "PANW",
+    "mailing_addr": "3000 TANNERY WAY, SANTA CLARA, CA, 95054",
+    "category": "Large accelerated filer",
+    "fiscal_year_end": "31, July"
+  },
+  {
+    "cik": "0000050471",
+    "name": "PARK CITY GROUP INC",
+    "sic": "Services-Computer Processing & Data Preparation",
+    "state_incorp": "NV",
+    "ticker": "PCYG",
+    "mailing_addr": "5282 SOUTH COMMERCE DRIVE, MURRAY, UT, 84107",
+    "category": "Non-accelerated filer<br>Smaller reporting company",
+    "fiscal_year_end": "30, June"
+  },
+  {
+    "cik": "0000723531",
+    "name": "PAYCHEX INC",
+    "sic": "Services-Engineering, Accounting, Research, Management",
+    "state_incorp": "DE",
+    "ticker": "PAYX",
+    "mailing_addr": "911 PANORAMA TRAIL SOUTH, ROCHESTER, NY, 14625-0397",
+    "category": "Large accelerated filer",
+    "fiscal_year_end": "31, May"
+  },
+  {
+    "cik": "0001590955",
+    "name": "Paycom Software, Inc.",
+    "sic": "Services-Prepackaged Software",
+    "state_incorp": "DE",
+    "ticker": "PAYC",
+    "mailing_addr": "7501 W. MEMORIAL ROAD, OKLAHOMA CITY, OK, 73142",
+    "category": "Large accelerated filer",
+    "fiscal_year_end": "31, December"
+  },
+  {
+    "cik": "0001591698",
+    "name": "Paylocity Holding Corp",
+    "sic": "Services-Prepackaged Software",
+    "state_incorp": "DE",
+    "ticker": "PCTY",
+    "mailing_addr": "1400 AMERICAN LANE, SCHAUMBURG, IL, 60173",
+    "category": "Large accelerated filer",
+    "fiscal_year_end": "30, June"
+  },
+  {
+    "cik": "0001013857",
+    "name": "PEGASYSTEMS INC",
+    "sic": "Services-Computer Processing & Data Preparation",
+    "state_incorp": "MA",
+    "ticker": "PEGA",
+    "mailing_addr": "ONE MAIN STREET, CAMBRIDGE, MA, 02142-1531",
+    "category": "Large accelerated filer",
+    "fiscal_year_end": "31, December"
+  },
+  {
+    "cik": "0001665300",
+    "name": "Phunware, Inc.",
+    "sic": "Services-Computer Processing & Data Preparation",
+    "state_incorp": "DE",
+    "ticker": "PHUN, PHUNW",
+    "mailing_addr": "7800 SHOAL CREEK BLVD, AUSTIN, X1, 78757",
+    "category": "<br>Emerging growth company",
+    "fiscal_year_end": "31, December"
+  },
+  {
+    "cik": "0001679826",
+    "name": "Ping Identity Holding Corp.",
+    "sic": "Services-Prepackaged Software",
+    "state_incorp": "DE",
+    "ticker": "PING",
+    "mailing_addr": "C/O PING IDENTITY HOLDING CORP., DENVER, CO, 80202",
+    "category": "Large accelerated filer",
+    "fiscal_year_end": "31, December"
+  },
+  {
+    "cik": "0000876167",
+    "name": "PROGRESS SOFTWARE CORP /MA",
+    "sic": "Services-Prepackaged Software",
+    "state_incorp": "DE",
+    "ticker": "PRGS",
+    "mailing_addr": "14 OAK PARK DRIVE, BEDFORD, MA, 01730",
+    "category": "Large accelerated filer",
+    "fiscal_year_end": "30, November"
+  },
+  {
+    "cik": "0001392972",
+    "name": "PROS Holdings, Inc.",
+    "sic": "Services-Computer Programming Services",
+    "state_incorp": "DE",
+    "ticker": "PRO",
+    "mailing_addr": "3200 KIRBY DR., HOUSTON, TX, 77098",
+    "category": "Large accelerated filer",
+    "fiscal_year_end": "31, December"
+  },
+  {
+    "cik": "0000857005",
+    "name": "PTC INC.",
+    "sic": "Services-Prepackaged Software",
+    "state_incorp": "MA",
+    "ticker": "PTC",
+    "mailing_addr": "121 SEAPORT BOULEVARD, BOSTON, MA, 02210",
+    "category": "Large accelerated filer",
+    "fiscal_year_end": "30, September"
+  },
+  {
+    "cik": "0001410384",
+    "name": "Q2 Holdings, Inc.",
+    "sic": "Services-Prepackaged Software",
+    "state_incorp": "",
+    "ticker": "QTWO",
+    "mailing_addr": "10355 PECAN PARK BOULEVARD, Austin, TX, 78729",
+    "category": "Large accelerated filer",
+    "fiscal_year_end": "31, December"
+  },
+  {
+    "cik": "0001107843",
+    "name": "QUALYS, INC.",
+    "sic": "Services-Prepackaged Software",
+    "state_incorp": "DE",
+    "ticker": "QLYS",
+    "mailing_addr": "919 E. HILLSDALE BLVD., FOSTER CITY, CA, 94404",
+    "category": "Large accelerated filer",
+    "fiscal_year_end": "31, December"
+  },
+  {
+    "cik": "0000892482",
+    "name": "Qumu Corp",
+    "sic": "Services-Prepackaged Software",
+    "state_incorp": "MN",
+    "ticker": "QUMU",
+    "mailing_addr": "400 SOUTH 4TH STREET, MINNEAPOLIS, MN, 55415",
+    "category": "Non-accelerated filer<br>Smaller reporting company",
+    "fiscal_year_end": "31, December"
+  },
+  {
+    "cik": "0001560327",
+    "name": "Rapid7, Inc.",
+    "sic": "Services-Prepackaged Software",
+    "state_incorp": "DE",
+    "ticker": "RPD",
+    "mailing_addr": "120 CAUSEWAY STREET, BOSTON, MA, 02114",
+    "category": "Large accelerated filer",
+    "fiscal_year_end": "31, December"
+  },
+  {
+    "cik": "0001046327",
+    "name": "REALNETWORKS INC",
+    "sic": "Services-Computer Programming Services",
+    "state_incorp": "WA",
+    "ticker": "RNWK",
+    "mailing_addr": "1501 FIRST AVENUE SOUTH, SEATTLE, WA, 98134",
+    "category": "Non-accelerated filer<br>Smaller reporting company",
+    "fiscal_year_end": "31, December"
+  },
+  {
+    "cik": "0001384905",
+    "name": "RingCentral, Inc.",
+    "sic": "Services-Computer Processing & Data Preparation",
+    "state_incorp": "",
+    "ticker": "RNG",
+    "mailing_addr": "20 DAVIS DRIVE, BELMONT, CA, 94002",
+    "category": "Large accelerated filer",
+    "fiscal_year_end": "31, December"
+  },
+  {
+    "cik": "0001167419",
+    "name": "Riot Blockchain, Inc.",
+    "sic": "Services-Computer Processing & Data Preparation",
+    "state_incorp": "NV",
+    "ticker": "RIOT",
+    "mailing_addr": "3855 AMBROSIA STREET, SUITE 301, CASTLE ROCK, CO, 80109",
+    "category": "Large accelerated filer",
+    "fiscal_year_end": "31, December"
+  },
+  {
+    "cik": "0001108524",
+    "name": "SALESFORCE.COM, INC.",
+    "sic": "Services-Prepackaged Software",
+    "state_incorp": "DE",
+    "ticker": "CRM",
+    "mailing_addr": "SALESFORCE TOWER, SAN FRANCISCO, CA, 94105",
+    "category": "Large accelerated filer",
+    "fiscal_year_end": "31, January"
+  },
+  {
+    "cik": "0001019671",
+    "name": "SEACHANGE INTERNATIONAL INC",
+    "sic": "Radio & Tv Broadcasting & Communications Equipment",
+    "state_incorp": "DE",
+    "ticker": "SEAC",
+    "mailing_addr": "177 HUNTINGTON AVENUE, SUITE 1703, BOSTON, MA, 02115-3153",
+    "category": "Non-accelerated filer<br>Smaller reporting company",
+    "fiscal_year_end": "31, January"
+  },
+  {
+    "cik": "0001468666",
+    "name": "SecureWorks Corp",
+    "sic": "Services-Prepackaged Software",
+    "state_incorp": "DE",
+    "ticker": "SCWX",
+    "mailing_addr": "ONE CONCOURSE PARKWAY, ATLANTA, GA, 30328",
+    "category": "Accelerated filer<br>Emerging growth company",
+    "fiscal_year_end": "31, January"
+  },
+  {
+    "cik": "0001373715",
+    "name": "ServiceNow, Inc.",
+    "sic": "Services-Prepackaged Software",
+    "state_incorp": "",
+    "ticker": "NOW",
+    "mailing_addr": "2225 LAWSON LANE, SANTA CLARA, CA, 95054",
+    "category": "Large accelerated filer",
+    "fiscal_year_end": "31, December"
+  },
+  {
+    "cik": "0001351636",
+    "name": "SHOTSPOTTER, INC",
+    "sic": "Services-Prepackaged Software",
+    "state_incorp": "",
+    "ticker": "SSTI",
+    "mailing_addr": "39300 CIVIC CENTER DRIVE, SUITE 300, FREMONT, CA, 94538",
+    "category": "<br>Emerging growth company",
+    "fiscal_year_end": "31, December"
+  },
+  {
+    "cik": "0001366561",
+    "name": "SMARTSHEET INC",
+    "sic": "Services-Prepackaged Software",
+    "state_incorp": "WA",
+    "ticker": "SMAR",
+    "mailing_addr": "10500 NE 8TH STREET, BELLEVUE, WA, 98004",
+    "category": "Large accelerated filer",
+    "fiscal_year_end": "31, January"
+  },
+  {
+    "cik": "0000948708",
+    "name": "SMITH MICRO SOFTWARE, INC.",
+    "sic": "Services-Prepackaged Software",
+    "state_incorp": "DE",
+    "ticker": "SMSI",
+    "mailing_addr": "5800 CORPORATE DRIVE, PITTSBURGH, PA, 15237",
+    "category": "Non-accelerated filer<br>Smaller reporting company",
+    "fiscal_year_end": "31, December"
+  },
+  {
+    "cik": "0001640147",
+    "name": "Snowflake Inc.",
+    "sic": "Services-Prepackaged Software",
+    "state_incorp": "DE",
+    "ticker": "SNOW",
+    "mailing_addr": "106 EAST BABCOCK STREET, BOZEMAN, MT, 59715",
+    "category": "Non-accelerated filer<br>Emerging growth company",
+    "fiscal_year_end": "31, January"
+  },
+  {
+    "cik": "0001739942",
+    "name": "SolarWinds Corp",
+    "sic": "Services-Prepackaged Software",
+    "state_incorp": "DE",
+    "ticker": "SWI",
+    "mailing_addr": "7171 SOUTHWEST PKWY., BLDG. 400, AUSTIN, TX, 78735",
+    "category": "Large accelerated filer",
+    "fiscal_year_end": "31, December"
+  },
+  {
+    "cik": "0001029744",
+    "name": "SONIC FOUNDRY INC",
+    "sic": "Radio & Tv Broadcasting & Communications Equipment",
+    "state_incorp": "MD",
+    "ticker": "SOFO",
+    "mailing_addr": "222 W. WASHINGTON AVENUE, MADISON, WI, 53703",
+    "category": "Non-accelerated filer<br>Smaller reporting company",
+    "fiscal_year_end": "30, September"
+  },
+  {
+    "cik": "0001353283",
+    "name": "SPLUNK INC",
+    "sic": "Services-Prepackaged Software",
+    "state_incorp": "",
+    "ticker": "SPLK",
+    "mailing_addr": "270 BRANNAN STREET, SAN FRANCISCO, CA, 94107",
+    "category": "Large accelerated filer",
+    "fiscal_year_end": "31, January"
+  },
+  {
+    "cik": "0001517375",
+    "name": "Sprout Social, Inc.",
+    "sic": "Services-Prepackaged Software",
+    "state_incorp": "DE",
+    "ticker": "SPT",
+    "mailing_addr": "131 SOUTH DEARBORN STREET, CHICAGO, IL, 60603",
+    "category": "Large accelerated filer",
+    "fiscal_year_end": "31, December"
+  },
+  {
+    "cik": "0001092699",
+    "name": "SPS COMMERCE INC",
+    "sic": "Services-Prepackaged Software",
+    "state_incorp": "DE",
+    "ticker": "SPSC",
+    "mailing_addr": "333 SOUTH SEVENTH STREET, MINNEAPOLIS, MN, 55402",
+    "category": "Large accelerated filer",
+    "fiscal_year_end": "31, December"
+  },
+  {
+    "cik": "0001643269",
+    "name": "Sumo Logic, Inc.",
+    "sic": "Services-Prepackaged Software",
+    "state_incorp": "DE",
+    "ticker": "SUMO",
+    "mailing_addr": "305 MAIN STREET, REDWOOD CITY, CA, 94063",
+    "category": "Large accelerated filer",
+    "fiscal_year_end": "31, January"
+  },
+  {
+    "cik": "0001131554",
+    "name": "SYNCHRONOSS TECHNOLOGIES INC",
+    "sic": "Services-Computer Programming Services",
+    "state_incorp": "",
+    "ticker": "SNCR, SNCRL",
+    "mailing_addr": "200 CROSSING BOULEVARD, BRIDGEWATER, NJ, 08807",
+    "category": "Accelerated filer",
+    "fiscal_year_end": "31, December"
+  },
+  {
+    "cik": "0000883241",
+    "name": "SYNOPSYS INC",
+    "sic": "Services-Prepackaged Software",
+    "state_incorp": "DE",
+    "ticker": "SNPS",
+    "mailing_addr": "690 E MIDDLEFIELD RD, MOUNTAIN VIEW, CA, 94043",
+    "category": "Large accelerated filer",
+    "fiscal_year_end": "31, October"
+  },
+  {
+    "cik": "0001660280",
+    "name": "Tenable Holdings, Inc.",
+    "sic": "Services-Prepackaged Software",
+    "state_incorp": "DE",
+    "ticker": "TENB",
+    "mailing_addr": "6100 MERRIWEATHER DRIVE, COLUMBIA, MD, 21044",
+    "category": "Large accelerated filer",
+    "fiscal_year_end": "31, December"
+  },
+  {
+    "cik": "0000816761",
+    "name": "TERADATA CORP /DE/",
+    "sic": "Services-Prepackaged Software",
+    "state_incorp": "",
+    "ticker": "TDC",
+    "mailing_addr": "17095 VIA DEL CAMPO, SAN DIEGO, CA, 92127",
+    "category": "Large accelerated filer",
+    "fiscal_year_end": "31, December"
+  },
+  {
+    "cik": "0001671933",
+    "name": "Trade Desk, Inc.",
+    "sic": "Services-Computer Programming, Data Processing, Etc.",
+    "state_incorp": "DE",
+    "ticker": "TTD",
+    "mailing_addr": "42 N. CHESTNUT STREET, VENTURA, CA, 93001",
+    "category": "Large accelerated filer",
+    "fiscal_year_end": "31, December"
+  },
+  {
+    "cik": "0001447669",
+    "name": "TWILIO INC",
+    "sic": "Services-Prepackaged Software",
+    "state_incorp": "DE",
+    "ticker": "TWLO",
+    "mailing_addr": "101 SPEAR STREET, San Francisco, CA, 94105",
+    "category": "Large accelerated filer",
+    "fiscal_year_end": "31, December"
+  },
+  {
+    "cik": "0000860731",
+    "name": "TYLER TECHNOLOGIES INC",
+    "sic": "Services-Prepackaged Software",
+    "state_incorp": "DE",
+    "ticker": "TYL",
+    "mailing_addr": "5101 TENNYSON PKWY, PLANO, TX, 75024",
+    "category": "Large accelerated filer",
+    "fiscal_year_end": "31, December"
+  },
+  {
+    "cik": "0001810806",
+    "name": "Unity Software Inc.",
+    "sic": "Services-Prepackaged Software",
+    "state_incorp": "DE",
+    "ticker": "U",
+    "mailing_addr": "30 - 3RD STREET, SAN FRANCISCO, CA, 94103",
+    "category": "Large accelerated filer",
+    "fiscal_year_end": "31, December"
+  },
+  {
+    "cik": "0001505155",
+    "name": "Upland Software, Inc.",
+    "sic": "Services-Prepackaged Software",
+    "state_incorp": "TX",
+    "ticker": "UPLD",
+    "mailing_addr": "401 CONGRESS AVE., AUSTIN, TX, 78701",
+    "category": "Large accelerated filer",
+    "fiscal_year_end": "31, December"
+  },
+  {
+    "cik": "0001361113",
+    "name": "VARONIS SYSTEMS INC",
+    "sic": "Services-Prepackaged Software",
+    "state_incorp": "DE",
+    "ticker": "VRNS",
+    "mailing_addr": "1250 BROADWAY, 31ST FLOOR, NEW YORK, NY, 10001",
+    "category": "Large accelerated filer",
+    "fiscal_year_end": "31, December"
+  },
+  {
+    "cik": "0001393052",
+    "name": "VEEVA SYSTEMS INC",
+    "sic": "Services-Prepackaged Software",
+    "state_incorp": "",
+    "ticker": "VEEV",
+    "mailing_addr": "4280 HACIENDA DRIVE, PLEASANTON, CA, 94588",
+    "category": "Large accelerated filer",
+    "fiscal_year_end": "31, January"
+  },
+  {
+    "cik": "0001166388",
+    "name": "VERINT SYSTEMS INC",
+    "sic": "Services-Computer Integrated Systems Design",
+    "state_incorp": "DE",
+    "ticker": "VRNT",
+    "mailing_addr": "175 BROADHOLLOW ROAD, MELVILLE, NY, 11747",
+    "category": "Large accelerated filer",
+    "fiscal_year_end": "31, January"
+  },
+  {
+    "cik": "0001615165",
+    "name": "Veritone, Inc.",
+    "sic": "Services-Computer Processing & Data Preparation",
+    "state_incorp": "DE",
+    "ticker": "VERI",
+    "mailing_addr": "1515 ARAPAHOE ST., DENVER, CO, 80202",
+    "category": "Non-accelerated filer<br>Smaller reporting company<br>Emerging growth company",
+    "fiscal_year_end": "31, December"
+  },
+  {
+    "cik": "0001806837",
+    "name": "Vertex, Inc.",
+    "sic": "Services-Prepackaged Software",
+    "state_incorp": "PA",
+    "ticker": "VERX",
+    "mailing_addr": "2301 RENAISSANCE BOULEVARD, KING OF PRUSSIA, PA, 19406",
+    "category": "Accelerated filer<br>Emerging growth company",
+    "fiscal_year_end": "31, December"
+  },
+  {
+    "cik": "0001082324",
+    "name": "VirnetX Holding Corp",
+    "sic": "Patent Owners & Lessors",
+    "state_incorp": "DE",
+    "ticker": "VHC",
+    "mailing_addr": "308 DORLA COURT, ZEPHYR COVE, NV, 89448",
+    "category": "Accelerated filer",
+    "fiscal_year_end": "31, December"
+  },
+  {
+    "cik": "0001327811",
+    "name": "Workday, Inc.",
+    "sic": "Services-Computer Processing & Data Preparation",
+    "state_incorp": "DE",
+    "ticker": "WDAY",
+    "mailing_addr": "6110 STONERIDGE MALL ROAD, PLEASANTON, CA, 94588",
+    "category": "Large accelerated filer",
+    "fiscal_year_end": "31, January"
+  },
+  {
+    "cik": "0001445305",
+    "name": "WORKIVA INC",
+    "sic": "Services-Prepackaged Software",
+    "state_incorp": "DE",
+    "ticker": "WK",
+    "mailing_addr": "2900 UNIVERSITY BLVD., AMES, IA, 50010",
+    "category": "Large accelerated filer",
+    "fiscal_year_end": "31, December"
+  },
+  {
+    "cik": "0001803696",
+    "name": "Xperi Holding Corp",
+    "sic": "Semiconductors & Related Devices",
+    "state_incorp": "DE",
+    "ticker": "XPER",
+    "mailing_addr": "3025 ORCHARD PARKWAY, SAN JOSE, CA, 95134",
+    "category": "Large accelerated filer",
+    "fiscal_year_end": "31, December"
+  },
+  {
+    "cik": "0001614178",
+    "name": "Yext, Inc.",
+    "sic": "Services-Computer Processing & Data Preparation",
+    "state_incorp": "DE",
+    "ticker": "YEXT",
+    "mailing_addr": "61 NINTH AVENUE, NEW YORK, NY, 10011",
+    "category": "Large accelerated filer",
+    "fiscal_year_end": "31, January"
+  },
+  {
+    "cik": "0001463172",
+    "name": "Zendesk, Inc.",
+    "sic": "Services-Computer Processing & Data Preparation",
+    "state_incorp": "",
+    "ticker": "ZEN",
+    "mailing_addr": "989 MARKET STREET, SAN FRANCISCO, CA, 94103",
+    "category": "Large accelerated filer",
+    "fiscal_year_end": "31, December"
+  },
+  {
+    "cik": "0000855612",
+    "name": "ZIX CORP",
+    "sic": "Services-Computer Processing & Data Preparation",
+    "state_incorp": "TX",
+    "ticker": "",
+    "mailing_addr": "2711 NORTH HASKELL AVENUE, DALLAS, TX, 75204-2960",
+    "category": "Accelerated filer",
+    "fiscal_year_end": "31, December"
+  },
+  {
+    "cik": "0001794515",
+    "name": "ZoomInfo Technologies Inc.",
+    "sic": "Services-Prepackaged Software",
+    "state_incorp": "",
+    "ticker": "ZI",
+    "mailing_addr": "805 BROADWAY ST, VANCOUVER, WA, 98660",
+    "category": "Large accelerated filer",
+    "fiscal_year_end": "31, December"
+  },
+  {
+    "cik": "0001713683",
+    "name": "Zscaler, Inc.",
+    "sic": "Services-Computer Programming Services",
+    "state_incorp": "DE",
+    "ticker": "ZS",
+    "mailing_addr": "110 ROSE ORCHARD WAY, SAN JOSE, CA, 95134",
+    "category": "Large accelerated filer",
+    "fiscal_year_end": "31, July"
+  },
+  {
+    "cik": "0001423774",
+    "name": "ZUORA INC",
+    "sic": "Services-Prepackaged Software",
+    "state_incorp": "DE",
+    "ticker": "ZUO",
+    "mailing_addr": "101 REDWOOD SHORES PARKWAY, REDWOOD CITY, CA, 94065",
+    "category": "Large accelerated filer",
+    "fiscal_year_end": "31, January"
+  },
+  {
+    "cik": "0001118974",
+    "name": "30DC, INC.",
+    "sic": "Services-Educational Services",
+    "state_incorp": "MD",
+    "ticker": "",
+    "mailing_addr": "80 BROAD STREET, NEW YORK, NY, 10004",
+    "category": "",
+    "fiscal_year_end": "30, June"
+  },
+  {
+    "cik": "0001556753",
+    "name": "3D PIONEER SYSTEMS, INC.",
+    "sic": "Services-Prepackaged Software",
+    "state_incorp": "NV",
+    "ticker": "DPSM",
+    "mailing_addr": "UNIT 1, EIGHT MILES PLAINS, C3, QLD 4113",
+    "category": "Non-accelerated filer<br>Smaller reporting company<br>Emerging growth company",
+    "fiscal_year_end": "30, June"
+  },
+  {
+    "cik": "0001085621",
+    "name": "Actua Corp",
+    "sic": "Services-Computer Programming Services",
+    "state_incorp": "DE",
+    "ticker": "",
+    "mailing_addr": "555 E. LANCASTER AVENUE, RADNOR, PA, 19087",
+    "category": "Large Accelerated",
+    "fiscal_year_end": "31, December"
+  },
+  {
+    "cik": "0001119691",
+    "name": "ADEXA INC",
+    "sic": "Services-Prepackaged Software",
+    "state_incorp": "CA",
+    "ticker": "",
+    "mailing_addr": " ,  ,  ,  ",
+    "category": "",
+    "fiscal_year_end": "31, December"
+  },
+  {
+    "cik": "0001342936",
+    "name": "Advanced Voice Recognition Systems, Inc",
+    "sic": "Crude Petroleum & Natural Gas",
+    "state_incorp": "NV",
+    "ticker": "AVOI",
+    "mailing_addr": "7659 E. WOOD DRIVE, SCOTTSDALE,, AZ, 85260",
+    "category": "<br>Emerging growth company",
+    "fiscal_year_end": "31, December"
+  },
+  {
+    "cik": "0000925043",
+    "name": "ADVANT E CORP",
+    "sic": "Services-Prepackaged Software",
+    "state_incorp": "DE",
+    "ticker": "",
+    "mailing_addr": "2434 ESQUIRE DRIVE, BEAVERCREEK, OH, 45431",
+    "category": "",
+    "fiscal_year_end": "31, December"
+  },
+  {
+    "cik": "0000869531",
+    "name": "Advantego Corp",
+    "sic": "Services-Computer Processing & Data Preparation",
+    "state_incorp": "CO",
+    "ticker": "ADGO",
+    "mailing_addr": "3801 EAST FLORIDA AVE., DENVER, CO, 80210",
+    "category": "",
+    "fiscal_year_end": "31, December"
+  },
+  {
+    "cik": "0001389217",
+    "name": "ALLDIGITAL HOLDINGS, INC.",
+    "sic": "Retail-Auto & Home Supply Stores",
+    "state_incorp": "NV",
+    "ticker": "",
+    "mailing_addr": "220 TECHNOLOGY DRIVE SUITE 100, IRVINE, CA, 92618",
+    "category": "",
+    "fiscal_year_end": "31, December"
+  },
+  {
+    "cik": "0001085069",
+    "name": "American Security Resources Corp.",
+    "sic": "Motors & Generators",
+    "state_incorp": "NV",
+    "ticker": "",
+    "mailing_addr": "2525 ROBIN HOOD STREET STE 1100, HOUSTON, TX, 77005",
+    "category": "",
+    "fiscal_year_end": "31, December"
+  },
+  {
+    "cik": "0000873198",
+    "name": "Applied Visual Sciences, Inc.",
+    "sic": "Wholesale-Computers & Peripheral Equipment & Software",
+    "state_incorp": "DE",
+    "ticker": "",
+    "mailing_addr": "250 EXCHANGE PLACE, HERNDON, VA, 20170",
+    "category": "",
+    "fiscal_year_end": "31, December"
+  },
+  {
+    "cik": "0001543739",
+    "name": "APT Systems Inc",
+    "sic": "Services-Management Consulting Services",
+    "state_incorp": "DE",
+    "ticker": "",
+    "mailing_addr": "505 MONTGOMERY STREET, SAN FRANCISCO, CA, 94111",
+    "category": "",
+    "fiscal_year_end": "31, January"
+  },
+  {
+    "cik": "0001348334",
+    "name": "BARRACUDA NETWORKS INC",
+    "sic": "Computer Peripheral Equipment, NEC",
+    "state_incorp": "DE",
+    "ticker": "",
+    "mailing_addr": "3175 WINCHESTER BOULEVARD, CAMPBELL, CA, 95008",
+    "category": "",
+    "fiscal_year_end": "28, February"
+  },
+  {
+    "cik": "0001626450",
+    "name": "BigCommerce Holdings, Inc.",
+    "sic": "Services-Prepackaged Software",
+    "state_incorp": "DE",
+    "ticker": "BIGC",
+    "mailing_addr": "11305 FOUR POINTS DR, BLDG 2, 3RD FLOOR, AUSTIN, TX, 78726",
+    "category": "Large accelerated filer",
+    "fiscal_year_end": "31, December"
+  },
+  {
+    "cik": "0000849547",
+    "name": "BLACK BOX CORP",
+    "sic": "Computer Communications Equipment",
+    "state_incorp": "DE",
+    "ticker": "",
+    "mailing_addr": "1000 PARK DRIVE, LAWRENCE, PA, 15055",
+    "category": "",
+    "fiscal_year_end": "31, March"
+  },
+  {
+    "cik": "0001449574",
+    "name": "Bravatek Solutions, Inc.",
+    "sic": "Services-Prepackaged Software",
+    "state_incorp": "CO",
+    "ticker": "",
+    "mailing_addr": "2028 E BEN WHITE BLVD, AUSTIN, TX, 78741",
+    "category": "",
+    "fiscal_year_end": "31, December"
+  },
+  {
+    "cik": "0001567771",
+    "name": "BRIDGEWAY NATIONAL CORP.",
+    "sic": "Industrial Organic Chemicals",
+    "state_incorp": "DE",
+    "ticker": "BDGY",
+    "mailing_addr": "1015 15TH STREET NW, WASHINGTON, DC, DC, 20005",
+    "category": "Non-accelerated filer<br>Smaller reporting company",
+    "fiscal_year_end": "31, December"
+  },
+  {
+    "cik": "0001341878",
+    "name": "B-Scada, Inc.",
+    "sic": "Services-Prepackaged Software",
+    "state_incorp": "DE",
+    "ticker": "",
+    "mailing_addr": "9030 W FT ISLAND TR., CRYSTAL RIVER, FL, 34429",
+    "category": "",
+    "fiscal_year_end": "31, October"
+  },
+  {
+    "cik": "0001088316",
+    "name": "BUSYBOX COM INC",
+    "sic": "Services-Business Services, NEC",
+    "state_incorp": "DE",
+    "ticker": "",
+    "mailing_addr": "15113 SUNSET BLVD SUITE 1, PACIFIC PALISADES, CA, 90272",
+    "category": "",
+    "fiscal_year_end": "31, December"
+  },
+  {
+    "cik": "0001124887",
+    "name": "CERIDIAN LLC",
+    "sic": "Services-Management Consulting Services",
+    "state_incorp": "DE",
+    "ticker": "",
+    "mailing_addr": "3311 EAST OLD SHAKOPEE RD, MINNEAPOLIS, MN, 55425",
+    "category": "",
+    "fiscal_year_end": "31, December"
+  },
+  {
+    "cik": "0001451797",
+    "name": "Changsheng International Group Ltd",
+    "sic": "Periodicals: Publishing or  Publishing & Printing",
+    "state_incorp": "DE",
+    "ticker": "CSJT",
+    "mailing_addr": "PO BOX 1334, FRANKLIN, TN, 37174",
+    "category": "",
+    "fiscal_year_end": "30, June"
+  },
+  {
+    "cik": "0001169652",
+    "name": "CHANNELADVISOR CORP",
+    "sic": "Services-Prepackaged Software",
+    "state_incorp": "DE",
+    "ticker": "ECOM",
+    "mailing_addr": "3025 CARRINGTON MILL BOULEVARD, MORRISVILLE, NC, 27560",
+    "category": "Large accelerated filer",
+    "fiscal_year_end": "31, December"
+  },
+  {
+    "cik": "0000945384",
+    "name": "CICERO INC",
+    "sic": "Services-Computer Programming Services",
+    "state_incorp": "DE",
+    "ticker": "",
+    "mailing_addr": "8000 REGENCY PARKWAY, CARY, NC, 27518",
+    "category": "",
+    "fiscal_year_end": "31, December"
+  },
+  {
+    "cik": "0001395938",
+    "name": "Cimetrix Inc",
+    "sic": "",
+    "state_incorp": "",
+    "ticker": "",
+    "mailing_addr": "6979 South High Tech Drive, Salt Lake City, UT, 84047",
+    "category": "",
+    "fiscal_year_end": ""
+  },
+  {
+    "cik": "0001022505",
+    "name": "CIPHERLOC Corp",
+    "sic": "Services-Computer Processing & Data Preparation",
+    "state_incorp": "TX",
+    "ticker": "CLOK",
+    "mailing_addr": "6836 BEE CAVE ROAD, AUSTIN, TX, 78746",
+    "category": "Non-accelerated filer<br>Smaller reporting company<br>Emerging growth company",
+    "fiscal_year_end": "30, September"
+  },
+  {
+    "cik": "0001393548",
+    "name": "ClickStream Corp",
+    "sic": "Services-Computer Processing & Data Preparation",
+    "state_incorp": "NV",
+    "ticker": "CLIS",
+    "mailing_addr": "8549 WILSHIRE BLVD., BEVERLY HILLS, CA, 90211-3104",
+    "category": "Non-accelerated filer<br>Smaller reporting company",
+    "fiscal_year_end": "30, September"
+  },
+  {
+    "cik": "0001582589",
+    "name": "Clone Algo Technologies Inc.",
+    "sic": "Services-Personal Services",
+    "state_incorp": "",
+    "ticker": "",
+    "mailing_addr": "10300 W. CHARLESTON BLVD, LAS VEGAS, NV, 89135",
+    "category": "",
+    "fiscal_year_end": "31, July"
+  },
+  {
+    "cik": "0001535379",
+    "name": "Cloudera, Inc.",
+    "sic": "Services-Prepackaged Software",
+    "state_incorp": "DE",
+    "ticker": "",
+    "mailing_addr": "395 PAGE MILL ROAD, PALO ALTO, CA, 94306",
+    "category": "Large accelerated filer",
+    "fiscal_year_end": "31, January"
+  },
+  {
+    "cik": "0001613011",
+    "name": "Code Rebel Corp",
+    "sic": "Services-Prepackaged Software",
+    "state_incorp": "DE",
+    "ticker": "",
+    "mailing_addr": "77 HOOKELE STREET, KAHULUI, HI, 96732",
+    "category": "",
+    "fiscal_year_end": "31, December"
+  },
+  {
+    "cik": "0001103759",
+    "name": "COM GUARD COM INC",
+    "sic": "Services-Business Services, NEC",
+    "state_incorp": "NV",
+    "ticker": "",
+    "mailing_addr": "3838 CAMINO DEL RIO, NORTH,, SAN DIEGO, CA, 92108",
+    "category": "",
+    "fiscal_year_end": "31, December"
+  },
+  {
+    "cik": "0001401680",
+    "name": "Cornerstone OnDemand Inc",
+    "sic": "Services-Prepackaged Software",
+    "state_incorp": "DE",
+    "ticker": "",
+    "mailing_addr": "1601 CLOVERFIELD BLVD, SANTA MONICA, CA, 90404",
+    "category": "Large accelerated filer",
+    "fiscal_year_end": "31, December"
+  },
+  {
+    "cik": "0001522787",
+    "name": "Cyberfort Software, Inc.",
+    "sic": "Retail-Retail Stores, NEC",
+    "state_incorp": "NV",
+    "ticker": "CYBF",
+    "mailing_addr": "388 MARKET STREET, SAN FRANCISCO, CA, 94111",
+    "category": "",
+    "fiscal_year_end": "31, March"
+  },
+  {
+    "cik": "0001133598",
+    "name": "DealerAdvance, Inc.",
+    "sic": "Computer Communications Equipment",
+    "state_incorp": "",
+    "ticker": "",
+    "mailing_addr": "16801 ADDISON ROAD, ADDISON, TX, 75001",
+    "category": "",
+    "fiscal_year_end": "31, December"
+  },
+  {
+    "cik": "0001487906",
+    "name": "DIGILITI MONEY GROUP, INC.",
+    "sic": "Telegraph & Other Message Communications",
+    "state_incorp": "DE",
+    "ticker": "",
+    "mailing_addr": "18671 LAKE DRIVE EAST, MINNEAPOLIS, MN, 55317",
+    "category": "",
+    "fiscal_year_end": "31, December"
+  },
+  {
+    "cik": "0001160951",
+    "name": "DUCK CREEK TECHNOLOGIES, INC.",
+    "sic": "Services-Prepackaged Software",
+    "state_incorp": "",
+    "ticker": "DCT",
+    "mailing_addr": "22 BOSTON WHARF ROAD, FLOOR 10, BOSTON, MA, 02210",
+    "category": "Large accelerated filer",
+    "fiscal_year_end": "31, August"
+  },
+  {
+    "cik": "0001540400",
+    "name": "E2open Inc",
+    "sic": "Services-Prepackaged Software",
+    "state_incorp": "DE",
+    "ticker": "",
+    "mailing_addr": "4100 EAST THIRD AVENUE, SUITE 400, FOSTER CITY, CA, 94404",
+    "category": "",
+    "fiscal_year_end": "28, February"
+  },
+  {
+    "cik": "0001088242",
+    "name": "ELASTIC NETWORKS INC",
+    "sic": "Telephone & Telegraph Apparatus",
+    "state_incorp": "DE",
+    "ticker": "",
+    "mailing_addr": "6120 WINWARD PARKWAY, ALPHARETTA, GA, 30005",
+    "category": "",
+    "fiscal_year_end": "31, December"
+  },
+  {
+    "cik": "0001707753",
+    "name": "Elastic N.V.",
+    "sic": "Services-Prepackaged Software",
+    "state_incorp": "P7",
+    "ticker": "ESTC",
+    "mailing_addr": "800 WEST EL CAMINO REAL SUITE 350, MOUNTAIN VIEW, CA, 94040",
+    "category": "Large accelerated filer",
+    "fiscal_year_end": "30, April"
+  },
+  {
+    "cik": "0000900096",
+    "name": "ELCOM INTERNATIONAL INC",
+    "sic": "Services-Computer Programming Services",
+    "state_incorp": "DE",
+    "ticker": "",
+    "mailing_addr": "10 OCEANA WAY, NORWOOD, MA, 02062",
+    "category": "",
+    "fiscal_year_end": "31, December"
+  },
+  {
+    "cik": "0000813747",
+    "name": "Enterprise Informatics Inc",
+    "sic": "Services-Computer Integrated Systems Design",
+    "state_incorp": "CA",
+    "ticker": "",
+    "mailing_addr": "10052 MESA RIDGE CT., SAN DIEGO, CA, 92121",
+    "category": "",
+    "fiscal_year_end": "30, September"
+  },
+  {
+    "cik": "0000943894",
+    "name": "EZENIA INC",
+    "sic": "Computer Communications Equipment",
+    "state_incorp": "DE",
+    "ticker": "",
+    "mailing_addr": "NORTHWEST PARK, BURLINGTON, MA, 01803",
+    "category": "",
+    "fiscal_year_end": "31, December"
+  },
+  {
+    "cik": "0000922521",
+    "name": "FALCONSTOR SOFTWARE INC",
+    "sic": "Services-Prepackaged Software",
+    "state_incorp": "DE",
+    "ticker": "FALC",
+    "mailing_addr": "125 BAYLIS ROAD, MELVILLE, NY, 11747",
+    "category": "Non-accelerated filer<br>Smaller reporting company",
+    "fiscal_year_end": "31, December"
+  },
+  {
+    "cik": "0001653115",
+    "name": "FANTASY ACES DAILY FANTASY SPORTS CORP",
+    "sic": "",
+    "state_incorp": "A1",
+    "ticker": "",
+    "mailing_addr": "120 VANTIS, SUITE 300, ALISO VIEJO, CA, 92656",
+    "category": "",
+    "fiscal_year_end": "31, December"
+  },
+  {
+    "cik": "0001370880",
+    "name": "Mandiant, Inc.",
+    "sic": "Computer Peripheral Equipment, NEC",
+    "state_incorp": "DE",
+    "ticker": "MNDT",
+    "mailing_addr": "11951 FREEDOM DRIVE, 6TH FLOOR, RESTON, VA, 20190",
+    "category": "Large accelerated filer",
+    "fiscal_year_end": "31, December"
+  },
+  {
+    "cik": "0001451951",
+    "name": "FriendFinder Networks Inc.",
+    "sic": "Services-Computer Programming, Data Processing, Etc.",
+    "state_incorp": "NV",
+    "ticker": "",
+    "mailing_addr": "6800 BROKEN SOUND PARKWAY, BOCA RATON, FL, 33487",
+    "category": "",
+    "fiscal_year_end": "31, December"
+  },
+  {
+    "cik": "0001064722",
+    "name": "GIVEMEPOWER CORP",
+    "sic": "Real Estate",
+    "state_incorp": "NV",
+    "ticker": "GMPW",
+    "mailing_addr": "#204, 16 MIDLAKE BLVD. SE, CALGARY, A0, T2X 2X7",
+    "category": "<br>Emerging growth company",
+    "fiscal_year_end": "31, December"
+  },
+  {
+    "cik": "0001020475",
+    "name": "GRANDPARENTS.COM, INC.",
+    "sic": "Services-Computer Processing & Data Preparation",
+    "state_incorp": "DE",
+    "ticker": "",
+    "mailing_addr": "589 EIGHTH AVENUE, 6TH FLOOR, NEW YORK, NY, 10018",
+    "category": "",
+    "fiscal_year_end": "31, December"
+  },
+  {
+    "cik": "0001159464",
+    "name": "Green PolkaDot Box Inc",
+    "sic": "Retail-Food Stores",
+    "state_incorp": "NV",
+    "ticker": "",
+    "mailing_addr": "629 E. QUALITY DRIVE, SUITE 103, AMERICAN FORK, UT, 84003",
+    "category": "",
+    "fiscal_year_end": "31, December"
+  },
+  {
+    "cik": "0001021435",
+    "name": "hopTo Inc.",
+    "sic": "Services-Prepackaged Software",
+    "state_incorp": "DE",
+    "ticker": "HPTO",
+    "mailing_addr": "1901 S. BASCOM AVENUE, CAMPBELL, CA, 95008",
+    "category": "Non-accelerated filer<br>Smaller reporting company",
+    "fiscal_year_end": "31, December"
+  },
+  {
+    "cik": "0001031905",
+    "name": "IBSG INTERNATIONAL INC",
+    "sic": "Services-Prepackaged Software",
+    "state_incorp": "FL",
+    "ticker": "",
+    "mailing_addr": "1132 CELEBRATION BLVD., CELEBRATION, FL, 34747",
+    "category": "",
+    "fiscal_year_end": "31, December"
+  },
+  {
+    "cik": "0000941685",
+    "name": "IMAGEWARE SYSTEMS INC",
+    "sic": "Services-Prepackaged Software",
+    "state_incorp": "DE",
+    "ticker": "IWSY",
+    "mailing_addr": "11440 W. BERNARDO COURT, SAN DIEGO, CA, 92127",
+    "category": "Non-accelerated filer<br>Smaller reporting company",
+    "fiscal_year_end": "31, December"
+  },
+  {
+    "cik": "0000714278",
+    "name": "INFORMATION RESOURCES INC",
+    "sic": "Services-Engineering, Accounting, Research, Management",
+    "state_incorp": "DE",
+    "ticker": "",
+    "mailing_addr": "150 N CLINTON ST, CHICAGO, IL, 60661-1416",
+    "category": "",
+    "fiscal_year_end": "31, December"
+  },
+  {
+    "cik": "0001040863",
+    "name": "INTEGRATED BUSINESS SYSTEMS & SERVICES INC",
+    "sic": "Services-Prepackaged Software",
+    "state_incorp": "SC",
+    "ticker": "",
+    "mailing_addr": "1601 SHOP ROAD, COLUMBIA, SC, 29201-4855",
+    "category": "",
+    "fiscal_year_end": "31, December"
+  },
+  {
+    "cik": "0001081745",
+    "name": "INTELLINETICS, INC.",
+    "sic": "Services-Prepackaged Software",
+    "state_incorp": "NV",
+    "ticker": "INLX",
+    "mailing_addr": "2190 DIVIDEND DRIVE, COLUMBUS, OH, 43228",
+    "category": "Non-accelerated filer<br>Smaller reporting company",
+    "fiscal_year_end": "31, December"
+  },
+  {
+    "cik": "0001285170",
+    "name": "INTERMAP TECHNOLOGIES CORP",
+    "sic": "",
+    "state_incorp": "A0",
+    "ticker": "",
+    "mailing_addr": "1200, 555 - 4TH AVENUE S.W., CALGARY, A0, T2P 3E7",
+    "category": "",
+    "fiscal_year_end": ""
+  },
+  {
+    "cik": "0001470550",
+    "name": "INTERNATIONAL LEADERS CAPITAL Corp",
+    "sic": "Blank Checks",
+    "state_incorp": "NV",
+    "ticker": "",
+    "mailing_addr": "9811 W. CHARLESTON BLVD, LAS VEGAS, NV, 89117",
+    "category": "",
+    "fiscal_year_end": "30, June"
+  },
+  {
+    "cik": "0001455926",
+    "name": "IRONCLAD ENCRYPTION Corp",
+    "sic": "Services-Prepackaged Software",
+    "state_incorp": "DE",
+    "ticker": "",
+    "mailing_addr": "1 RIVERWAY, HOUSTON, TX, 77056",
+    "category": "",
+    "fiscal_year_end": "31, March"
+  },
+  {
+    "cik": "0000727634",
+    "name": "iSign Solutions Inc.",
+    "sic": "Services-Prepackaged Software",
+    "state_incorp": "DE",
+    "ticker": "ISIGN, ISGN",
+    "mailing_addr": "2033 GATEWAY PLACE, SAN JOSE, CA, 95110",
+    "category": "Non-accelerated filer<br>Smaller reporting company",
+    "fiscal_year_end": "31, December"
+  },
+  {
+    "cik": "0001716726",
+    "name": "iSocialy, Inc.",
+    "sic": "Services-Prepackaged Software",
+    "state_incorp": "CT",
+    "ticker": "",
+    "mailing_addr": "285 BERLIN TURNPIKE, BERLIN, CT, 06037",
+    "category": "",
+    "fiscal_year_end": "31, March"
+  },
+  {
+    "cik": "0001397183",
+    "name": "Iveda Solutions, Inc.",
+    "sic": "Services-Prepackaged Software",
+    "state_incorp": "NV",
+    "ticker": "IVDA",
+    "mailing_addr": "1744 S. VAL VISTA DRIVE, MESA, AZ, 85204",
+    "category": "Non-accelerated filer<br>Smaller reporting company",
+    "fiscal_year_end": "31, December"
+  },
+  {
+    "cik": "0001084048",
+    "name": "ZIFF DAVIS, INC.",
+    "sic": "Telegraph & Other Message Communications",
+    "state_incorp": "",
+    "ticker": "ZD",
+    "mailing_addr": "114 5TH AVENUE, NEW YORK, NY, 10011",
+    "category": "Large accelerated filer",
+    "fiscal_year_end": "31, December"
+  },
+  {
+    "cik": "0001006892",
+    "name": "JDA SOFTWARE GROUP INC",
+    "sic": "Services-Computer Programming Services",
+    "state_incorp": "DE",
+    "ticker": "",
+    "mailing_addr": "14400 N 87TH ST, SCOTTSDALE, AZ, 85260",
+    "category": "",
+    "fiscal_year_end": "31, December"
+  },
+  {
+    "cik": "0000838796",
+    "name": "Kiwibox.Com, Inc.",
+    "sic": "Services-Prepackaged Software",
+    "state_incorp": "DE",
+    "ticker": "",
+    "mailing_addr": "401 ROUTE 24, CHESTER, NJ, 07930",
+    "category": "",
+    "fiscal_year_end": "31, December"
+  },
+  {
+    "cik": "0000886903",
+    "name": "KRONOS INC",
+    "sic": "Services-Prepackaged Software",
+    "state_incorp": "MA",
+    "ticker": "",
+    "mailing_addr": "297 BILLERICA ROAD, CHELMSFORD, MA, 01824",
+    "category": "",
+    "fiscal_year_end": "30, September"
+  },
+  {
+    "cik": "0001344632",
+    "name": "Lawson Software, Inc.",
+    "sic": "Services-Prepackaged Software",
+    "state_incorp": "DE",
+    "ticker": "",
+    "mailing_addr": "380 ST PETER STREET, ST PAUL, MN, 55102",
+    "category": "",
+    "fiscal_year_end": "31, May"
+  },
+  {
+    "cik": "0001473654",
+    "name": "LevelBlox, Inc.",
+    "sic": "Services-Prepackaged Software",
+    "state_incorp": "DE",
+    "ticker": "",
+    "mailing_addr": "6371 BUSINESS BLVD., SARASOTA, FL, 34240",
+    "category": "",
+    "fiscal_year_end": "31, December"
+  },
+  {
+    "cik": "0000216430",
+    "name": "LIQUI BOX CORP",
+    "sic": "Plastics Products, NEC",
+    "state_incorp": "OH",
+    "ticker": "",
+    "mailing_addr": "6950 WORTHINGTON GALENA ROAD, WORTHINGTON, OH, 43085",
+    "category": "",
+    "fiscal_year_end": "02, January"
+  },
+  {
+    "cik": "0001562594",
+    "name": "Liquid Holdings Group, Inc.",
+    "sic": "Services-Prepackaged Software",
+    "state_incorp": "DE",
+    "ticker": "",
+    "mailing_addr": "111 RIVER STREET, STE. 1204, HOBOKEN, NJ, 07030",
+    "category": "",
+    "fiscal_year_end": "31, December"
+  },
+  {
+    "cik": "0000791014",
+    "name": "MAIL BOXES ETC",
+    "sic": "Patent Owners & Lessors",
+    "state_incorp": "CA",
+    "ticker": "",
+    "mailing_addr": " ,  ,  ,  ",
+    "category": "",
+    "fiscal_year_end": "30, April"
+  },
+  {
+    "cik": "0001353499",
+    "name": "Max Sound Corp",
+    "sic": "Services-Computer Processing & Data Preparation",
+    "state_incorp": "DE",
+    "ticker": "MAXD",
+    "mailing_addr": "2902A COLORADO AVENUE, SANTA MONICA, CA, 90404",
+    "category": "Non-accelerated filer<br>Smaller reporting company",
+    "fiscal_year_end": "31, December"
+  },
+  {
+    "cik": "0001540184",
+    "name": "Medallia, Inc.",
+    "sic": "Services-Computer Programming, Data Processing, Etc.",
+    "state_incorp": "DE",
+    "ticker": "",
+    "mailing_addr": "575 MARKET STREET, SAN FRANCISCO, CA, 94105",
+    "category": "Large accelerated filer",
+    "fiscal_year_end": "31, January"
+  },
+  {
+    "cik": "0001001601",
+    "name": "MGT CAPITAL INVESTMENTS, INC.",
+    "sic": "Services-Computer Processing & Data Preparation",
+    "state_incorp": "DE",
+    "ticker": "MGTI",
+    "mailing_addr": "150 FAYETTEVILLE STREET,, RALEIGH, NC, 27601",
+    "category": "Non-accelerated filer<br>Smaller reporting company",
+    "fiscal_year_end": "31, December"
+  },
+  {
+    "cik": "0001576914",
+    "name": "MiX Telematics Ltd",
+    "sic": "Services-Prepackaged Software",
+    "state_incorp": "T3",
+    "ticker": "MIXT",
+    "mailing_addr": "PO BOX 12326, JOHANNESBURG, T3, 1686",
+    "category": "Accelerated filer<br>Smaller reporting company",
+    "fiscal_year_end": "31, March"
+  },
+  {
+    "cik": "0001470099",
+    "name": "MOBILEIRON, INC.",
+    "sic": "Services-Prepackaged Software",
+    "state_incorp": "DE",
+    "ticker": "",
+    "mailing_addr": "490 EAST MIDDLEFIELD ROAD, MOUNTAIN VIEW, CA, 94043",
+    "category": "Large Accelerated",
+    "fiscal_year_end": "31, December"
+  },
+  {
+    "cik": "0001423746",
+    "name": "Monster Arts Inc.",
+    "sic": "Services-Business Services, NEC",
+    "state_incorp": "NV",
+    "ticker": "",
+    "mailing_addr": "806 EAST AVENIDA PICO, SAN CLEMENTE, CA, 92673",
+    "category": "",
+    "fiscal_year_end": "31, December"
+  },
+  {
+    "cik": "0001022701",
+    "name": "NEOMEDIA TECHNOLOGIES INC",
+    "sic": "Services-Computer Integrated Systems Design",
+    "state_incorp": "DE",
+    "ticker": "",
+    "mailing_addr": "1515 WALNUT AVENUE, BOULDER, CO, 80302",
+    "category": "",
+    "fiscal_year_end": "31, December"
+  },
+  {
+    "cik": "0001031980",
+    "name": "NOTIFY TECHNOLOGY CORP",
+    "sic": "Telephone & Telegraph Apparatus",
+    "state_incorp": "CA",
+    "ticker": "",
+    "mailing_addr": "1054 S DE ANZA BLVD, SAN JOSE, CA, 95129",
+    "category": "",
+    "fiscal_year_end": "30, September"
+  },
+  {
+    "cik": "0001020579",
+    "name": "OMTOOL LTD",
+    "sic": "Services-Prepackaged Software",
+    "state_incorp": "DE",
+    "ticker": "",
+    "mailing_addr": "6 RIVERSIDE DRIVE, ANDOVER, MA, 01810",
+    "category": "",
+    "fiscal_year_end": "31, December"
+  },
+  {
+    "cik": "0001017655",
+    "name": "PAID INC",
+    "sic": "Services-Business Services, NEC",
+    "state_incorp": "DE",
+    "ticker": "PAYD",
+    "mailing_addr": "200 FRIBERG PARKWAY, WESTBOROUGH, MA, 01581",
+    "category": "Non-accelerated filer<br>Smaller reporting company",
+    "fiscal_year_end": "31, December"
+  },
+  {
+    "cik": "0001321655",
+    "name": "Palantir Technologies Inc.",
+    "sic": "Services-Prepackaged Software",
+    "state_incorp": "",
+    "ticker": "PLTR",
+    "mailing_addr": "1555 BLAKE STREET, DENVER, CO, 80202",
+    "category": "Large accelerated filer",
+    "fiscal_year_end": ""
+  },
+  {
+    "cik": "0001084384",
+    "name": "PARETEUM Corp",
+    "sic": "Services-Computer Integrated Systems Design",
+    "state_incorp": "DE",
+    "ticker": "TEUM",
+    "mailing_addr": "1185 AVENUE OF THE AMERICAS, NEW YORK, NY, 10036",
+    "category": "Non-accelerated filer<br>Smaller reporting company",
+    "fiscal_year_end": "31, December"
+  },
+  {
+    "cik": "0000879703",
+    "name": "Paybox Corp.",
+    "sic": "Services-Computer Integrated Systems Design",
+    "state_incorp": "DE",
+    "ticker": "",
+    "mailing_addr": "500 EAST BROWARD BOULEVARD, FORT LAUDERDALE, FL, 33323",
+    "category": "",
+    "fiscal_year_end": "31, December"
+  },
+  {
+    "cik": "0001725579",
+    "name": "Pluralsight, Inc.",
+    "sic": "Services-Computer Programming, Data Processing, Etc.",
+    "state_incorp": "DE",
+    "ticker": "",
+    "mailing_addr": "42 FUTURE WAY, DRAPER, UT, 84020",
+    "category": "Large Accelerated",
+    "fiscal_year_end": "31, December"
+  },
+  {
+    "cik": "0001124217",
+    "name": "PRIMAL SOLUTIONS INC",
+    "sic": "Services-Prepackaged Software",
+    "state_incorp": "DE",
+    "ticker": "",
+    "mailing_addr": "19732 MACARTHUR BOULEVARD, IRVINE, CA, 92612",
+    "category": "",
+    "fiscal_year_end": "31, December"
+  },
+  {
+    "cik": "0001212458",
+    "name": "PROOFPOINT INC",
+    "sic": "Services-Computer Processing & Data Preparation",
+    "state_incorp": "DE",
+    "ticker": "",
+    "mailing_addr": "925 W. MAUDE AVENUE, SUNNYVALE, CA, 94085",
+    "category": "Large accelerated filer",
+    "fiscal_year_end": "31, December"
+  },
+  {
+    "cik": "0001583138",
+    "name": "Pulse Evolution Corp",
+    "sic": "Services-Allied To Motion Picture Production",
+    "state_incorp": "NV",
+    "ticker": "PLFX",
+    "mailing_addr": "318 SOUTH US HIGHWAY ONE,, JUPITER, FL, 33477",
+    "category": "",
+    "fiscal_year_end": "30, June"
+  },
+  {
+    "cik": "0001036188",
+    "name": "QAD INC",
+    "sic": "Services-Prepackaged Software",
+    "state_incorp": "DE",
+    "ticker": "",
+    "mailing_addr": "100 INNOVATION PLACE, SANTA BARBARA, CA, 93108",
+    "category": "Accelerated filer",
+    "fiscal_year_end": "31, January"
+  },
+  {
+    "cik": "0001384365",
+    "name": "RAADR, INC.",
+    "sic": "Services-Computer Programming Services",
+    "state_incorp": "NV",
+    "ticker": "RDAR",
+    "mailing_addr": "7950 E REDFIELD RD., SCOTTSDALE, AZ, 85260",
+    "category": "",
+    "fiscal_year_end": "31, December"
+  },
+  {
+    "cik": "0000852437",
+    "name": "RAND WORLDWIDE INC",
+    "sic": "Services-Prepackaged Software",
+    "state_incorp": "DE",
+    "ticker": "",
+    "mailing_addr": "11201 DOLFIELD BOULEVARD, BALTIMORE, MD, 21117",
+    "category": "",
+    "fiscal_year_end": "30, June"
+  },
+  {
+    "cik": "0001286225",
+    "name": "RealPage, Inc.",
+    "sic": "Services-Prepackaged Software",
+    "state_incorp": "DE",
+    "ticker": "",
+    "mailing_addr": "2201 LAKESIDE BLVD, RICHARDSON, TX, 75082",
+    "category": "Large accelerated filer",
+    "fiscal_year_end": "31, December"
+  },
+  {
+    "cik": "0001506270",
+    "name": "RIGHTSCORP, INC.",
+    "sic": "Services-Business Services, NEC",
+    "state_incorp": "NV",
+    "ticker": "",
+    "mailing_addr": "3100 DONALD DOUGLAS LOOP, NORTH, SANTA MONICA, CA, 90405",
+    "category": "",
+    "fiscal_year_end": "31, December"
+  },
+  {
+    "cik": "0000823546",
+    "name": "ROCKETFUEL BLOCKCHAIN, INC.",
+    "sic": "Services-Prepackaged Software",
+    "state_incorp": "NV",
+    "ticker": "RKFL",
+    "mailing_addr": "3651 LINDELL ROAD, SUITE D565, LAS VEGAS, NV, 89103",
+    "category": "Non-accelerated filer<br>Smaller reporting company",
+    "fiscal_year_end": "31, March"
+  },
+  {
+    "cik": "0001423586",
+    "name": "RORINE INTERNATIONAL HOLDING Corp",
+    "sic": "Orthopedic, Prosthetic & Surgical Appliances & Supplies",
+    "state_incorp": "NV",
+    "ticker": "",
+    "mailing_addr": "7582 LAS VEGAS BLVD SOUTH, LAS VEGAS, NV, 89123",
+    "category": "",
+    "fiscal_year_end": "30, November"
+  },
+  {
+    "cik": "0001351285",
+    "name": "ROSETTA STONE INC",
+    "sic": "Services-Prepackaged Software",
+    "state_incorp": "",
+    "ticker": "",
+    "mailing_addr": "1621 NORTH KENT STREET, ARLINGTON, VA, 22209",
+    "category": "",
+    "fiscal_year_end": "31, December"
+  },
+  {
+    "cik": "0001158019",
+    "name": "SCIENT INC",
+    "sic": "Services-Computer Integrated Systems Design",
+    "state_incorp": "DE",
+    "ticker": "",
+    "mailing_addr": "79 FIFTH AVENUE, NEW YORK, NY, 10003",
+    "category": "",
+    "fiscal_year_end": "31, December"
+  },
+  {
+    "cik": "0001506439",
+    "name": "SharpSpring, Inc.",
+    "sic": "Services-Prepackaged Software",
+    "state_incorp": "DE",
+    "ticker": "",
+    "mailing_addr": "5001 CELEBRATION POINTE AVENUE, GAINESVILLE, FL, 32608",
+    "category": "Non-accelerated filer<br>Smaller reporting company",
+    "fiscal_year_end": "31, December"
+  },
+  {
+    "cik": "0000846775",
+    "name": "SIMTROL INC",
+    "sic": "Services-Prepackaged Software",
+    "state_incorp": "DE",
+    "ticker": "",
+    "mailing_addr": "520 GUTHRIDGE CT., NORCROSS, GA, 30092",
+    "category": "",
+    "fiscal_year_end": "31, December"
+  },
+  {
+    "cik": "0001157817",
+    "name": "SITO MOBILE, LTD.",
+    "sic": "Services-Business Services, NEC",
+    "state_incorp": "DE",
+    "ticker": "SITOQ",
+    "mailing_addr": "123 TOWN SQUARE PLACE #419, JERSEY CITY, NJ, 07310",
+    "category": "",
+    "fiscal_year_end": "31, December"
+  },
+  {
+    "cik": "0000909687",
+    "name": "SKYBOX INTERNATIONAL INC",
+    "sic": "Commercial Printing",
+    "state_incorp": "DE",
+    "ticker": "",
+    "mailing_addr": " ,  ,  ,  ",
+    "category": "",
+    "fiscal_year_end": "31, December"
+  },
+  {
+    "cik": "0001764925",
+    "name": "Slack Technologies, Inc.",
+    "sic": "Services-Prepackaged Software",
+    "state_incorp": "DE",
+    "ticker": "",
+    "mailing_addr": "500 HOWARD STREET, SAN FRANCISCO, CA, 94105",
+    "category": "Large accelerated filer",
+    "fiscal_year_end": "31, January"
+  },
+  {
+    "cik": "0001301991",
+    "name": "SmartMetric, Inc.",
+    "sic": "Miscellaneous Manufacturing Industries",
+    "state_incorp": "NV",
+    "ticker": "SMME",
+    "mailing_addr": "3960 HOWARD HUGHES PKWY, LAS VEGAS, NV, 89169",
+    "category": "Non-accelerated filer<br>Smaller reporting company",
+    "fiscal_year_end": "30, June"
+  },
+  {
+    "cik": "0000354260",
+    "name": "SOFTECH INC",
+    "sic": "Services-Computer Integrated Systems Design",
+    "state_incorp": "MA",
+    "ticker": "",
+    "mailing_addr": "650 SUFFOLK STREET, LOWELL, MA, 01851",
+    "category": "",
+    "fiscal_year_end": "31, May"
+  },
+  {
+    "cik": "0001402436",
+    "name": "SS&C Technologies Holdings Inc",
+    "sic": "Services-Prepackaged Software",
+    "state_incorp": "DE",
+    "ticker": "SSNC",
+    "mailing_addr": "80 LAMBERTON RD, WINDSOR, CT, 06095",
+    "category": "Large accelerated filer",
+    "fiscal_year_end": "31, December"
+  },
+  {
+    "cik": "0001501919",
+    "name": "SSI Investments II Ltd",
+    "sic": "Services-Prepackaged Software",
+    "state_incorp": "L2",
+    "ticker": "",
+    "mailing_addr": "C/O SKILLSOFT LIMITED, NASHUA, NH, 03062",
+    "category": "",
+    "fiscal_year_end": "31, January"
+  },
+  {
+    "cik": "0001739936",
+    "name": "MOMENTIVE GLOBAL INC.",
+    "sic": "Services-Computer Programming, Data Processing, Etc.",
+    "state_incorp": "DE",
+    "ticker": "MNTV",
+    "mailing_addr": "ONE CURIOSITY WAY, SAN MATEO, CA, 94403",
+    "category": "Large accelerated filer",
+    "fiscal_year_end": "31, December"
+  },
+  {
+    "cik": "0001408278",
+    "name": "Synacor, Inc.",
+    "sic": "Services-Computer Programming, Data Processing, Etc.",
+    "state_incorp": "NY",
+    "ticker": "",
+    "mailing_addr": "40 LARIVIERE DRIVE, BUFFALO, NY, 14202",
+    "category": "",
+    "fiscal_year_end": "31, December"
+  },
+  {
+    "cik": "0001389067",
+    "name": "TAUTACHROME INC.",
+    "sic": "Services-Prepackaged Software",
+    "state_incorp": "DE",
+    "ticker": "TTCM",
+    "mailing_addr": "1846 E. INNOVATION PARK DRIVE, ORO VALLEY, AZ, 85755",
+    "category": "Non-accelerated filer<br>Smaller reporting company",
+    "fiscal_year_end": "31, December"
+  },
+  {
+    "cik": "0001474439",
+    "name": "Telenav, Inc.",
+    "sic": "Search, Detection, Navigation, Guidance, Aeronautical Sys",
+    "state_incorp": "DE",
+    "ticker": "",
+    "mailing_addr": "4655 GREAT AMERICA PARKWAY, SANTA CLARA, CA, 95054",
+    "category": "",
+    "fiscal_year_end": "30, June"
+  },
+  {
+    "cik": "0001066684",
+    "name": "THEGLOBE COM INC",
+    "sic": "Services-Advertising",
+    "state_incorp": "DE",
+    "ticker": "TGLO",
+    "mailing_addr": "PO BOX 029006, FORT LAUDERDALE, FL, 33302",
+    "category": "Non-accelerated filer<br>Smaller reporting company",
+    "fiscal_year_end": "31, December"
+  },
+  {
+    "cik": "0001085280",
+    "name": "TIBCO SOFTWARE INC",
+    "sic": "Services-Prepackaged Software",
+    "state_incorp": "DE",
+    "ticker": "",
+    "mailing_addr": "3303 HILLVIEW AVENUE, PALO ALTO, CA, 94304",
+    "category": "",
+    "fiscal_year_end": "30, November"
+  },
+  {
+    "cik": "0001554875",
+    "name": "Tintri, Inc.",
+    "sic": "Services-Computer Processing & Data Preparation",
+    "state_incorp": "DE",
+    "ticker": "",
+    "mailing_addr": "303 RAVENDALE DR, MOUNTAIN VIEW, CA, 94043",
+    "category": "",
+    "fiscal_year_end": "31, December"
+  },
+  {
+    "cik": "0000939652",
+    "name": "TMM INC",
+    "sic": "",
+    "state_incorp": "",
+    "ticker": "",
+    "mailing_addr": " ,  ,  ,  ",
+    "category": "",
+    "fiscal_year_end": ""
+  },
+  {
+    "cik": "0001016125",
+    "name": "ULTIMATE SOFTWARE GROUP INC",
+    "sic": "Services-Prepackaged Software",
+    "state_incorp": "DE",
+    "ticker": "",
+    "mailing_addr": "ULTIMATE SOFTWARE GROUP INC, WESTON, FL, 33326",
+    "category": "",
+    "fiscal_year_end": "31, December"
+  },
+  {
+    "cik": "0000835270",
+    "name": "UNITRONIX CORP",
+    "sic": "Services-Computer Integrated Systems Design",
+    "state_incorp": "NJ",
+    "ticker": "",
+    "mailing_addr": "PEABODY OFFICE BLDG, PEABODY, MA, 01960",
+    "category": "",
+    "fiscal_year_end": "30, June"
+  },
+  {
+    "cik": "0001499355",
+    "name": "Quinton Group, Inc.",
+    "sic": "Telephone Communications (No Radiotelephone)",
+    "state_incorp": "NV",
+    "ticker": "",
+    "mailing_addr": "P.O. BOX 778267, HENDERSON, NV, 89120",
+    "category": "Non-accelerated filer<br>Smaller reporting company",
+    "fiscal_year_end": "31, December"
+  },
+  {
+    "cik": "0001566610",
+    "name": "Verb Technology Company, Inc.",
+    "sic": "Services-Personal Services",
+    "state_incorp": "NV",
+    "ticker": "VERB, VERBW",
+    "mailing_addr": "782 S. AUTO MALL DRIVE, AMERICAN FORK, UT, 84003",
+    "category": "Non-accelerated filer<br>Smaller reporting company",
+    "fiscal_year_end": "31, December"
+  },
+  {
+    "cik": "0001099509",
+    "name": "VERTICAL COMPUTER SYSTEMS INC",
+    "sic": "Services-Prepackaged Software",
+    "state_incorp": "DE",
+    "ticker": "",
+    "mailing_addr": "2100 N. GREENVILLE AVE, RICHARDSON, TX, 75082",
+    "category": "",
+    "fiscal_year_end": "31, December"
+  },
+  {
+    "cik": "0001479000",
+    "name": "Viva Entertainment Group Inc.",
+    "sic": "Cable & Other Pay Television Services",
+    "state_incorp": "NV",
+    "ticker": "OTTV",
+    "mailing_addr": "143-41 84TH DRIVE, BRIARWOOD,, NY, 11435",
+    "category": "",
+    "fiscal_year_end": "31, October"
+  },
+  {
+    "cik": "0001827032",
+    "name": "Voyager Digital Ltd.",
+    "sic": "",
+    "state_incorp": "A1",
+    "ticker": "",
+    "mailing_addr": "33 IRVING PLAZA, SUITE 3060, NEW YORK, NY, 10003",
+    "category": "",
+    "fiscal_year_end": "30, June"
+  },
+  {
+    "cik": "0001100981",
+    "name": "VUBOTICS INC",
+    "sic": "Services-Prepackaged Software",
+    "state_incorp": "NV",
+    "ticker": "",
+    "mailing_addr": "1108 OGLETHORPE DRIVE, ATLANTA, GA, 30319",
+    "category": "",
+    "fiscal_year_end": "31, December"
+  },
+  {
+    "cik": "0000704366",
+    "name": "WOD Retail Solutions, Inc.",
+    "sic": "Orthopedic, Prosthetic & Surgical Appliances & Supplies",
+    "state_incorp": "FL",
+    "ticker": "WODI",
+    "mailing_addr": "10233 SOUTH PARKER RD., PARKER, CO, 80134",
+    "category": "",
+    "fiscal_year_end": "31, December"
+  },
+  {
+    "cik": "0001465509",
+    "name": "XcelMobility Inc.",
+    "sic": "Services-Prepackaged Software",
+    "state_incorp": "NV",
+    "ticker": "",
+    "mailing_addr": "303 TWIN DOLPHINS DRIVE,, REDWOOD CITY, CA, 94065",
+    "category": "",
+    "fiscal_year_end": "31, December"
+  },
+  {
+    "cik": "0001511735",
+    "name": "YAPPN CORP.",
+    "sic": "Wholesale-Durable Goods",
+    "state_incorp": "DE",
+    "ticker": "",
+    "mailing_addr": "1001 AVENUE OF THE AMERICAS, 11TH FLOOR, NEW YORK, NY, 10018",
+    "category": "",
+    "fiscal_year_end": "31, May"
+  },
+  {
+    "cik": "0000822708",
+    "name": "ZOOM TECHNOLOGIES INC",
+    "sic": "Telephone & Telegraph Apparatus",
+    "state_incorp": "DE",
+    "ticker": "",
+    "mailing_addr": "C/O BARRY I. GROSSMAN, ESQ., ELLENOFF, NEW YORK, NY, 10017",
+    "category": "",
+    "fiscal_year_end": "31, December"
+  },
+  {
+    "cik": "0001541054",
+    "name": "ZOOMAWAY TRAVEL INC.",
+    "sic": "",
+    "state_incorp": "A1",
+    "ticker": "",
+    "mailing_addr": "145-925 WEST GEORGIA STREET, VANCOUVER, A1, V6C 3L2",
+    "category": "",
+    "fiscal_year_end": "31, December"
+  },
+  {
+    "cik": "0000713425",
+    "name": "AMERICAN SOFTWARE INC",
+    "sic": "Services-Prepackaged Software",
+    "state_incorp": "GA",
+    "ticker": "AMSWA",
+    "mailing_addr": "470 EAST PACES FERRY ROAD NE, ATLANTA, GA, 30305",
+    "category": "Accelerated filer",
+    "fiscal_year_end": "30, April"
+  },
+  {
+    "cik": "0001418100",
+    "name": "Avaya Holdings Corp.",
+    "sic": "Telephone & Telegraph Apparatus",
+    "state_incorp": "",
+    "ticker": "AVYA",
+    "mailing_addr": "co Avaya Inc, DURHAM, NC, 27713",
+    "category": "Large accelerated filer",
+    "fiscal_year_end": "30, September"
+  },
+  {
+    "cik": "0001627857",
+    "name": "Sailpoint Technologies Holdings, Inc.",
+    "sic": "Services-Prepackaged Software",
+    "state_incorp": "",
+    "ticker": "SAIL",
+    "mailing_addr": "11120 FOUR POINTS DRIVE, AUSTIN, TX, 78726",
+    "category": "Large accelerated filer",
+    "fiscal_year_end": "31, December"
+  },
+  {
+    "cik": "0001124610",
+    "name": "VMWARE, INC.",
+    "sic": "Services-Prepackaged Software",
+    "state_incorp": "DE",
+    "ticker": "VMW",
+    "mailing_addr": "3401 HILLVIEW AVENUE, PALO ALTO, CA, 94304",
+    "category": "Large accelerated filer",
+    "fiscal_year_end": "28, January"
+  },
+  {
+    "cik": "0001585521",
+    "name": "Zoom Video Communications, Inc.",
+    "sic": "Services-Computer Programming, Data Processing, Etc.",
+    "state_incorp": "DE",
+    "ticker": "ZM",
+    "mailing_addr": "55 ALMADEN BOULEVARD, 6TH FLOOR, SAN JOSE, CA, 95113",
+    "category": "Large accelerated filer",
+    "fiscal_year_end": "31, January"
+  }
+]
